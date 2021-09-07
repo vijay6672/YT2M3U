@@ -49,11 +49,11 @@ https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
-Euronews Albania | Albania | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
-https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
-
 WION | English | |
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
+
+Euronews Albania | Albania | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
+https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
 
 Insomniac | Entertainment | |
 https://www.youtube.com/channel/UCr45VhwCBYwMfdN-gz7W_OA/live
@@ -460,11 +460,14 @@ https://www.youtube.com/watch?v=JqIqywOBWAY
 News24 | Hindi | |
 https://www.youtube.com/watch?v=YGf8JJZM_Yg
 
-Tez Live | Hindi | |
-https://www.youtube.com/watch?v=upsF9NULamA
+Good News Today (Tez) | Hindi | |
+https://www.youtube.com/channel/UCQC1wGbOOIoC23fRGxt4kbg/live
 
 Zee Business | Hindi | |
-https://www.youtube.com/watch?v=W-znYiVLoYw
+https://www.youtube.com/channel/UCjFKMoAk3qhRkW4eOqNm6dw/live
+
+Zee News | Hindi | |
+https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live 
 
 CNBC Awaaz | Hindi | |
 https://www.youtube.com/watch?v=NkMaFG2v71Y
