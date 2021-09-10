@@ -8,7 +8,7 @@ banner = r'''
 #     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
 #     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
 #                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
+#                                  >> https://github.com/vijay6672      #
 #########################################################################
 '''
 
@@ -26,12 +26,12 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u')
                 return
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -48,7 +48,7 @@ def grab(url):
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
 #s = requests.Session()
-with open('../youtube_channel_info.txt') as f:
+with open('../youtube_channel_info.txt', errors="ignore") as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
