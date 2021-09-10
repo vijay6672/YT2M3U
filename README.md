@@ -5,7 +5,7 @@
 
 `https://raw.githubusercontent.com/vijay6672/YT2M3U/main/youtube.m3u`
 
-Updated m3u links of YouTube live channels, **auto-updated frequently**.
+Updated m3u links of YouTube live channels, auto-updated every 3 hours.
 
 
 ### Add more channels
