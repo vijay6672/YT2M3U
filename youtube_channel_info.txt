@@ -64,6 +64,18 @@ https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
 Jaya Plus | Tamil | https://www.lyngsat-logo.com/logo/tv/jj/jaya_in_plus.png |
 https://www.youtube.com/user/jayapluschennai/live
 
+CAPTAIN NEWS | Tamil | |
+https://www.youtube.com/channel/UCno6OgN7-NDmRTNBgqWevlw/live
+
+CAPTAIN TV | Tamil | |
+https://www.youtube.com/channel/UCjPq8C3_m0OPF1n1sCPaXUA/live
+
+Sathiyam News | Tamil | |
+https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
+
+V News27 | Tamil | |
+https://www.youtube.com/channel/UC6OTvR4AB1CHC4HT_AlOmHg/live
+
 Roland Martin Unfiltered | English | |
 https://www.youtube.com/user/rolandsmartin/live
 
@@ -117,9 +129,6 @@ https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
 WION | English | https://www.lyngsat-logo.com/logo/tv/ww/wion_in.png |
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
-
-NBC News | English | |
-https://www.youtube.com/user/NBCNews/live
 
 EuroNews | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/user/Euronews/live
@@ -184,11 +193,119 @@ https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
 The World Live- earthTV | English | |
 https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ/live
 
+Microsoft | English | |
+https://www.youtube.com/channel/UCFtEEv80fQVKkD4h1PF-Xqw/live
+
+Microsoft Developer | English | |
+https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g/live
+
+Windows Developer | English | |
+https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA/live
+
+Windows | English | |
+https://www.youtube.com/channel/UCVGOyzms_XJNk_DHqrffXCw/live
+
+Explore Oceans | English | |
+https://www.youtube.com/channel/UCSyg9cb3Iq-NtlbxqNB9wGw/live
+
+ABC7 SWFL | English | |
+https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live
+
+ARCADIA WORLD HD | English | |
+https://www.youtube.com/channel/UCySoNg54OYL6oImf7XhJaUA/live
+
+Arirang TV | English | |
+https://www.youtube.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ/live
+
+Arirang TV UN | English | |
+https://www.youtube.com/channel/UCoE40Ou0_K3NRomrLdHt2Vg/live
+
+Astronaut Spacewalk Earth Views | English | |
+https://www.youtube.com/channel/UC3ZODI-xZfdPanPP6tKUg9g/live
+
+Bloomberg | English | |
+https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ/live
+
+CBS News | English | |
+https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g/live
+
+CNBC | English | |
+https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw/live
+
+CNBC Africa | English | |
+https://www.youtube.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ/live
+
+edureka! | English | |
+https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ/live
+
+FOX BUSINESS | English | |
+https://www.youtube.com/channel/UCCXoCcu9Rp7NPbTzIvogpZg/live
+
+FOX NEWS | English | |
+https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live
+
+GCNTV ENGLISH | English | |
+https://www.youtube.com/channel/UCDr4vL3pCQRup0cV3qWZFmg/live
+
+GitHub | English | |
+https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ/live
+
+NASA - Earth From Space | English | |
+https://www.youtube.com/channel/UCIR_LPmEQ9QHR0yB2lxgaxQ/live
+
+NASA | English | |
+https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/live
+
+NBC NEWS | English | |
+https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live
+
+NBC News | English | |
+https://www.youtube.com/user/NBCNews/live
+
+NBC2 News | English | |
+https://www.youtube.com/channel/UCIYVU7fPs_n6gJIBso3ryeg/live
+
+NBC4 New York | English | |
+https://www.youtube.com/channel/UCxCfoSInadl-4i3F70zDt1A/live
+
+News31 UK | English | |
+https://www.youtube.com/channel/UC6INsy2j37wqhoSOBdUNdFQ/live
+
+NEWS9 | English | |
+https://www.youtube.com/channel/UCRK4FDIkUyslEAUdyRDdCtQ/live
+
+NEWSX | English | |
+https://www.youtube.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig/live
+
+OE24.TV: Alle News live | English | |
+https://www.youtube.com/channel/UCyQpfuhftLvrmjxgEzVH78Q/live
+
+RT | English | |
+https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
+
+RT America | English | |
+https://www.youtube.com/channel/UCczrL-2b-gYK3l4yDld4XlQ/live
+
+TVC News Nigeria | English | |
+https://www.youtube.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA/live
+
+VATICAN NEWS | English | |
+https://www.youtube.com/channel/UCxIsefyl9g9A5SGWA4FvGIA/live
+
+Yahoo Finance | English | |
+https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg/live
+
 NDTV India | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png |
 https://www.youtube.com/user/ndtvindia/live
 
 IndiaTV | Hindi | |
 https://www.youtube.com/user/IndiaTV/live
+
+INC TV | Hindi | |
+https://www.youtube.com/channel/UCdneAUQkslIONkpxY5kgbrQ/live
+
+INBCN News | Hindi | |
+https://www.youtube.com/channel/UC4D3WMBqMfS5f9QrcT6xkgg/live
 
 A1TV | Hindi | |
 https://www.youtube.com/channel/UCyky9PDwU5cClLPYSLVhQmQ/live
@@ -250,6 +367,96 @@ https://www.youtube.com/user/News24page/live
 News Nation | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news-nation-in.png |
 https://www.youtube.com/user/NewsNationTV/live
 
+Rajastan Patrika | Hindi | https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png |
+https://www.youtube.com/user/TheRajasthanPatrika/live
+
+Rajastan Patrika | Hindi | https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png |
+https://www.youtube.com/channel/UCWk-7Yosyvzln9ZzJg8BvVg/live
+
+PATRIKA MPCG| Hindi | |
+https://www.youtube.com/channel/UCKrXAcPJPFewJ0z1G-GgjTw/live
+
+PIB India | Hindi | |
+https://www.youtube.com/user/pibindia/live
+
+NEWS ON AIR OFFICIAL | Hindi | |
+https://www.youtube.com/channel/UCYOv0QZr2B70Rkx_ZqIA84w/live
+
+AIR NEWS 24X7 | Hindi | |
+https://www.youtube.com/channel/UC5Hxu03Gc0GElwwEClVb5WQ/live
+
+AM NEWS | Hindi | |
+https://www.youtube.com/channel/UCu_q3VCbMiq5bYaBql_NmSQ/live
+
+ANAADI TV | Hindi | |
+https://www.youtube.com/channel/UCK1Sl8bNLay45FeL30BFdxQ/live
+
+BBC News Hindi | Hindi | |
+https://www.youtube.com/channel/UCN7B-QD0Qgn2boVH5Q0pOWg/live
+
+DD BHARATI | Hindi | |
+https://www.youtube.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg/live
+
+DD INDIA | Hindi | |
+https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
+
+DD JAMMU | Hindi | |
+https://www.youtube.com/channel/UC8e8pGUfxubzuZUvW43O3Gg/live
+
+DD KASHIR | Hindi | |
+https://www.youtube.com/channel/UCOqU-HfQxoyImaCW2tCDxJA/live
+
+DD KISAN | Hindi | |
+https://www.youtube.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg/live
+
+DD NATIONAL | Hindi | |
+https://www.youtube.com/channel/UCSjPe5kinQtwcyHcFJyyMfw/live
+
+DD UP | Hindi | |
+https://www.youtube.com/channel/UCxtPipsf2nUZ9xM33TPe93Q/live
+
+Hare Krsna TV | Hindi | |
+https://www.youtube.com/channel/UCwu3_7WGUAcWhx79YsGMvBw/live
+
+Hindi Pod101 | Hindi | |
+https://www.youtube.com/channel/UCQjj7y-JGGj12vwhIbuz62Q/live
+
+INDIA AHEAD | Hindi | |
+https://www.youtube.com/channel/UCsEwpieG_XmBvPlfYrv9Afg/live
+
+INDIA NEWS | Hindi | |
+https://www.youtube.com/channel/UCcH1_Lw_VbQoxGgDJ2OW0LQ/live
+
+INDIA NEWS HARYANA | Hindi | |
+https://www.youtube.com/channel/UCISKj2--Nxrs5s60T3wq5Pg/live
+
+INDIA NEWS PH | Hindi | |
+https://www.youtube.com/channel/UCaFBF255LGHwqSB35kN7jsA/live
+
+KHABRAIN ABHITAK | Hindi | |
+https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ/live
+
+LOKSABHA TV | Hindi | |
+https://www.youtube.com/channel/UCrXvTLS-1ye7MmZhsi_cpOQ/live
+
+Maths 101 | Hindi | |
+https://www.youtube.com/channel/UCBZGE2wdqCuXPLQoy_Yd4fg/live
+
+Ministry of Information Broadcasting | Hindi | |
+https://www.youtube.com/channel/UCvoGqD4Rrl0nsFxlsjRvx4w/live
+
+MP News TV | Hindi | |
+https://www.youtube.com/channel/UCgnZSWl-C28cCwABQw5qC9w/live
+
+NAAPTOL | Hindi | |
+https://www.youtube.com/channel/UCVq31CbTy4zbpAqRS6lgnOg/live
+
+NARENDRA MODI | Hindi | |
+https://www.youtube.com/channel/UC1NF71EwP41VdjAU1iXdLkw/live
+
+News Bharat | Hindi | |
+https://www.youtube.com/channel/UCgCli0lrWwZjkcDr44fmJDw/live
+
 News18 UPUK| Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news_18_in.png |
 https://www.youtube.com/channel/UCafYgzpyw7aIUYOLjjADu7w/live
 
@@ -259,14 +466,41 @@ https://www.youtube.com/channel/UC531MlZA5LUbeGwEN_zcppw/live
 News18 MPCG | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news_18_in.png |
 https://www.youtube.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ/live
 
-Rajastan Patrika | Hindi | https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png |
-https://www.youtube.com/user/TheRajasthanPatrika/live
+NEWS18 HINDI | Hindi | |
+https://www.youtube.com/channel/UCn1P85eKDEXS2iwbcasBm-g/live
 
-PIB India | Hindi | |
-https://www.youtube.com/user/pibindia/live
+NEWS18 INDIA | Hindi | |
+https://www.youtube.com/channel/UCPP3etACgdUWvizcES1dJ8Q/live
 
-NEWS ON AIR OFFICIAL | Hindi | |
-https://www.youtube.com/channel/UCYOv0QZr2B70Rkx_ZqIA84w/live
+NEWS18 PHH | Hindi | |
+https://www.youtube.com/channel/UC-crZTQNRzZgzyighTKF0nQ/live
+
+NEWS18 RS | Hindi | |
+https://www.youtube.com/channel/UC7FlLbNo66YsCEAPuJITiNg/live
+
+PMO INDIA | Hindi | |
+https://www.youtube.com/channel/UCDS9hpqUEXsXUIcf0qDcBIA/live
+
+PRIME NEWS | Hindi | |
+https://www.youtube.com/channel/UCnH1cUnkvs2c8wcHl5voamA/live
+
+RSTV Rajya Sabha | Hindi | |
+https://www.youtube.com/channel/UCISgnSNwqQ2i8lhCun3KtQg/live
+
+STATE LIVE | Hindi | |
+https://www.youtube.com/channel/UCtfHXNyT81qFL8U4nAOZ8ug/live
+
+STV NEWS 24X7 | Hindi | |
+https://www.youtube.com/channel/UClXRJRPICNPraGCLx04iALA/live
+
+Swadesh News | Hindi | |
+https://www.youtube.com/channel/UC6aBWXY4FHWjqQKaexvms3A/live
+
+SWARAJ EXPRESS SMBC | Hindi | |
+https://www.youtube.com/channel/UCCbrm4vw97RvUIGFYJneDoA/live
+
+Yoga in Daily Life | Hindi | |
+https://www.youtube.com/channel/UCKJyvGSXm17soKMyEot24HQ/live
 
 PrasarBharati Sports | Hindi | https://www.lyngsat-logo.com/logo/tv/dd/dd-sports-in.png |
 https://www.youtube.com/c/PrasarBharatiSports/live
@@ -283,6 +517,108 @@ https://www.youtube.com/user/PenIndiaPvtLimited/live
 Global Herald News | Hindi | |
 https://www.youtube.com/channel/UCIR6XVjmkuVhGTVVcQnDS7g/live
 
+Peace of Mind TV | Hindi | |
+https://www.youtube.com/channel/UCmw4wZ3FRso2TsS36FQ6heA/live
+
+Om Shanti Channel GWS | Hindi | |
+https://www.youtube.com/channel/UCUcvsN9Jqc4RzVvMlJ1y_FA/live
+
+Awakening TV | Hindi | |
+https://www.youtube.com/channel/UCQ8kxAu_on_YzVPMjB03rqA/live
+
+News State | Hindi | |
+https://www.youtube.com/channel/UCeNP3dAy9_A32IWYZq_PZMQ/live
+
+Aaryaa News | Hindi | |
+https://www.youtube.com/channel/UCTAe42PUNeBbtxiGJf0izCw/live
+
+AB STAR NEWS | Hindi | |
+https://www.youtube.com/channel/UCelGDRpGe_gRwT88ASp5eVQ/live
+
+ABHITAK NEWS | Hindi | |
+https://www.youtube.com/channel/UCQVgzFyRv2RImUisFG0DSYA/live
+
+AP PRIME | Telugu | |
+https://www.youtube.com/channel/UCfRQRxDzj869hOeupciQFzg/live
+
+AP24X7 | Telugu | |
+https://www.youtube.com/channel/UCpbW96xFi7vbTM98vGMQh-g/live
+
+BHAARAT TODAY | Telugu | |
+https://www.youtube.com/channel/UCtlOBrA93cytbIp0YzX_0YA/live
+
+BHAARAT TODAY | Telugu | |
+https://www.youtube.com/channel/UCUXlmNbwWA2FlYY5aaUp9ng/live
+
+Channel1 Telugu | Telugu | |
+https://www.youtube.com/channel/UCFXD7OI7pAqEnNb7Yr-8a6A/live
+
+DD News Andhra | Telugu | |
+https://www.youtube.com/channel/UCY2IaEWQUD2XADwFxs5LPUg/live
+
+DD Saptagiri | Telugu | |
+https://www.youtube.com/channel/UCcsvAreQ1IxIjWlBSpNEOWg/live
+
+DD YADAGIRI | Telugu | |
+https://www.youtube.com/channel/UC6V4nVa0CQkoLZUlg9drmZA/live
+
+I & PR AP | Telugu | |
+https://www.youtube.com/channel/UC9Hl37t2Dke7ykUjPd0mejA/live
+
+IMPACT FOUNDATION | Telugu | |
+https://www.youtube.com/channel/UCLF6ZhuAuhOA98UwZgDkQ2Q/live
+
+Kidsone Telugu | Telugu | |
+https://www.youtube.com/channel/UCjCHw0Np-xswtfxQac2yiYA/live
+
+MANA TV AP | Telugu | |
+https://www.youtube.com/channel/UCpSzMrVC36NictxkhZR1Kpw/live
+
+MANGO MUSIC | Telugu | |
+https://www.youtube.com/channel/UCWqyzn3cDkRDh3kRGWrIQwA/live
+
+Metro TV Telugu | Telugu | |
+https://www.youtube.com/channel/UCnsuUUZ_48m8RVHj_08CYdw/live
+
+Nationalist Hub | Telugu | |
+https://www.youtube.com/channel/UC3tSxEsn4I2bOH0R7yqJspw/live
+
+News18 Telugu | Telugu | |
+https://www.youtube.com/channel/UC-PPlFHLfi4wcFOe6DrReCQ/live
+
+NewsNow | Telugu | |
+https://www.youtube.com/channel/UClMJjWEemNQcSYBhOk0tyUQ/live
+
+NewsNow | Telugu | |
+https://www.youtube.com/channel/UCx8thMB9ByBPyhUbnpVixIA/live
+
+NTV GLOBAL | Telugu | |
+https://www.youtube.com/channel/UCtzYV2L-m8ew93mZb3qhf5w/live
+
+News1 Telugu | Telugu | |
+https://www.youtube.com/c/News1TeluguTV/live
+
+SAILEELA TV | Telugu | |
+https://www.youtube.com/channel/UCdbkrxh5YoF3Crs3AGRgdPA/live
+
+Sneha TV | Telugu | |
+https://www.youtube.com/channel/UCX3s427Q3fgxCasbCwP07UQ/live
+
+TELUGU COMEDY CLUB | Telugu | |
+https://www.youtube.com/channel/UCasOSKWb0hUSdKlybiCMgkg/live
+
+Telugu One | Telugu | |
+https://www.youtube.com/channel/UCXjhJbviBl0M4JAC3cxDXqA/live
+
+TODAY | Telugu | |
+https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/live
+
+YOYO TV | Telugu | |
+https://www.youtube.com/channel/UCJ97pLhPp-CU9Tj4-dp9B6g/live
+
+ACE MEDIA | Telugu | |
+https://www.youtube.com/channel/UCSMzZUt-3jfSTPtCNRPT4jA/live
+
 Mango Telugu Cinema | Telugu | |
 https://www.youtube.com/user/telugucinema/live
 
@@ -294,6 +630,9 @@ https://www.youtube.com/c/VolgaVideo/live
 
 TSAT Network | Telugu | |
 https://www.youtube.com/c/TSATNetwork/live  
+
+1TV NEWS | Telugu | |
+https://www.youtube.com/channel/UCausY4La9nIg1WXIDkvx-YA/live
 
 Santosham Suresh | Telugu | |
 https://www.youtube.com/channel/UCAZLIGT34B3O-gDpIblZFjA/live
@@ -397,10 +736,22 @@ https://www.youtube.com/user/svbcttd/live
 Bhakthi TV | Telugu | https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png |
 https://www.youtube.com/user/bhakthitvorg/live
 
+Hindu Dharmam | Telugu | |
+https://www.youtube.com/channel/UCMg2yY8OzHhw6mOvgIkaXYg/live
+
+Sai TV | Telugu | |
+https://www.youtube.com/channel/UCfP_lkE3WWR4r8Zkr98A56Q/live
+
+Bhakthi One | Telugu | |
+https://www.youtube.com/channel/UChOHAoVKJ3coNFomdN-evBA/live
+
+Aditya Bhakthi | Telugu | |
+https://www.youtube.com/channel/UCZQ3VR0OxbRVVy5uzfGomUg/live
+
 CVR OM | Telugu | https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png |
 https://www.youtube.com/user/CVRSpiritual/live
 
-Omkaram| Telugu | |
+Omkaram | Telugu | |
 https://www.youtube.com/channel/UCJKZ1HvOUPHqzBM5nP5YBGg/live
 
 PMC Music| Telugu | |
@@ -411,6 +762,9 @@ https://www.youtube.com/channel/UCDXrVF1e88GumHoWfImrAYA/live
 
 SYE Sports OTT | Telugu | |
 https://www.youtube.com/channel/UCYt-Aa9NG6ShzwJr18ZlM-A/live
+
+Adda 247 | Telugu | |
+https://www.youtube.com/channel/UCqqDD-1K6WTjS16Y8pdY1_Q/live
 
 Kids TV | Kids | |
 https://www.youtube.com/channel/UC7Pq3Ko42YpkCB_Q4E981jw/live
