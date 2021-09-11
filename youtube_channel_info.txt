@@ -11,7 +11,7 @@ Asianet News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/c/c4/A
 https://www.youtube.com/user/asianetnews/live
 
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
+https://www.youtube.com/channel/UCG-vTyqxtqwqOXWoumEQc8g/live
 
 Mathrubhumi News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png |
 https://www.youtube.com/user/TVMathrubhumi/live
@@ -132,6 +132,9 @@ https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
 EuroNews | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/user/Euronews/live
+
+EuroNews | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
+https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 
 AfricaNews | English | |
 https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live
@@ -328,6 +331,9 @@ https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng/live
 Aajtak | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png |
 https://www.youtube.com/user/aajtaktv/live
 
+Aajtak | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png |
+https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA/live
+
 ABP NEWS | Hindi | https://www.lyngsat-logo.com/logo/tv/aa/abp-news-in.png |
 https://www.youtube.com/user/abpnewstv/live
 
@@ -411,6 +417,9 @@ https://www.youtube.com/channel/UCnDfmcUyhgJp6xC1LmBLfUg/live
 
 DD NATIONAL | Hindi | |
 https://www.youtube.com/channel/UCSjPe5kinQtwcyHcFJyyMfw/live
+
+DD NATIONAL | Hindi | |
+https://www.youtube.com/user/DoordarshanNational/live
 
 DD UP | Hindi | |
 https://www.youtube.com/channel/UCxtPipsf2nUZ9xM33TPe93Q/live
