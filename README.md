@@ -4,7 +4,8 @@
 [![M3U generator for YouTube](https://github.com/vijay6672/YT2M3U/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/vijay6672/YT2M3U/actions/workflows/m3u_Generator.yml)
 
 `https://raw.githubusercontent.com/vijay6672/YT2M3U/main/youtube.m3u`
-
+Not all the channels telecast live all the times.
+If any channel have multiple live streams only 1st live stream will be visible.
 Updated m3u links of YouTube live channels, auto-updated every 3 hours.
 
 
