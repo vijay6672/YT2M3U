@@ -76,6 +76,39 @@ https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 V News27 | Tamil | |
 https://www.youtube.com/channel/UC6OTvR4AB1CHC4HT_AlOmHg/live
 
+dotNET | Educational | |
+https://www.youtube.com/c/dotNET/live
+
+Simplilearn Official | Educational | |
+https://www.youtube.com/c/SimplilearnOfficial/live
+
+English Class101 | Educational | |
+https://www.youtube.com/user/ENGLISHCLASS101/live
+
+Microsoft | Educational | |
+https://www.youtube.com/channel/UCFtEEv80fQVKkD4h1PF-Xqw/live
+
+Microsoft Developer | Educational | |
+https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g/live
+
+Windows Developer | Educational | |
+https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA/live
+
+Windows | Educational | |
+https://www.youtube.com/channel/UCVGOyzms_XJNk_DHqrffXCw/live
+
+edureka! | Educational | |
+https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ/live
+
+GitHub | Educational | |
+https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ/live
+
+Hindi Pod101 | Educational | |
+https://www.youtube.com/channel/UCQjj7y-JGGj12vwhIbuz62Q/live
+
+Maths 101 | Educational | |
+https://www.youtube.com/channel/UCBZGE2wdqCuXPLQoy_Yd4fg/live
+
 Roland Martin Unfiltered | English | |
 https://www.youtube.com/user/rolandsmartin/live
 
@@ -106,7 +139,7 @@ https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
 Bloomberg Quicktake | English | |
 https://www.youtube.com/user/Bloomberg/live
 
-Bloomberg Quicktake Now| English | |
+Bloomberg Quicktake Now | English | |
 https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live
 
 CNA | English | |
@@ -154,15 +187,6 @@ https://www.youtube.com/user/channelsweb/live
 CNN News18 | English | https://www.lyngsat-logo.com/logo/tv/cc/cnn_news_18_in.png |
 https://www.youtube.com/channel/UCef1-8eOpJgud7szVPlZQAQ/live
 
-dotNET | English | |
-https://www.youtube.com/c/dotNET/live
-
-Simplilearn Official | English | |
-https://www.youtube.com/c/SimplilearnOfficial/live
-
-English Class101 | English | |
-https://www.youtube.com/user/ENGLISHCLASS101/live
-
 English TV | English | |
 https://www.youtube.com/channel/UCDvLvvN8o6kdW7OaN7CciXw/live
 
@@ -196,18 +220,6 @@ https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
 The World Live- earthTV | English | |
 https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ/live
 
-Microsoft | English | |
-https://www.youtube.com/channel/UCFtEEv80fQVKkD4h1PF-Xqw/live
-
-Microsoft Developer | English | |
-https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g/live
-
-Windows Developer | English | |
-https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA/live
-
-Windows | English | |
-https://www.youtube.com/channel/UCVGOyzms_XJNk_DHqrffXCw/live
-
 Explore Oceans | English | |
 https://www.youtube.com/channel/UCSyg9cb3Iq-NtlbxqNB9wGw/live
 
@@ -238,9 +250,6 @@ https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw/live
 CNBC Africa | English | |
 https://www.youtube.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ/live
 
-edureka! | English | |
-https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ/live
-
 FOX BUSINESS | English | |
 https://www.youtube.com/channel/UCCXoCcu9Rp7NPbTzIvogpZg/live
 
@@ -249,9 +258,6 @@ https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live
 
 GCNTV ENGLISH | English | |
 https://www.youtube.com/channel/UCDr4vL3pCQRup0cV3qWZFmg/live
-
-GitHub | English | |
-https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ/live
 
 NASA - Earth From Space | English | |
 https://www.youtube.com/channel/UCIR_LPmEQ9QHR0yB2lxgaxQ/live
@@ -427,9 +433,6 @@ https://www.youtube.com/channel/UCxtPipsf2nUZ9xM33TPe93Q/live
 Hare Krsna TV | Hindi | |
 https://www.youtube.com/channel/UCwu3_7WGUAcWhx79YsGMvBw/live
 
-Hindi Pod101 | Hindi | |
-https://www.youtube.com/channel/UCQjj7y-JGGj12vwhIbuz62Q/live
-
 INDIA AHEAD | Hindi | |
 https://www.youtube.com/channel/UCsEwpieG_XmBvPlfYrv9Afg/live
 
@@ -447,9 +450,6 @@ https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ/live
 
 LOKSABHA TV | Hindi | |
 https://www.youtube.com/channel/UCrXvTLS-1ye7MmZhsi_cpOQ/live
-
-Maths 101 | Hindi | |
-https://www.youtube.com/channel/UCBZGE2wdqCuXPLQoy_Yd4fg/live
 
 Ministry of Information Broadcasting | Hindi | |
 https://www.youtube.com/channel/UCvoGqD4Rrl0nsFxlsjRvx4w/live
