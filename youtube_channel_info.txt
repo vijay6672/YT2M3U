@@ -82,6 +82,9 @@ https://www.youtube.com/channel/UC6OTvR4AB1CHC4HT_AlOmHg/live
 STV News 24/7 | Tamil | |
 https://www.youtube.com/channel/UClXRJRPICNPraGCLx04iALA/live
 
+SVBC2 TTD | Tamil | |
+https://www.youtube.com/channel/UCsLjLyPnPH4hile6qzNnlgw/live
+
 dotNET | Educational | |
 https://www.youtube.com/c/dotNET/live
 
@@ -298,9 +301,6 @@ https://www.youtube.com/channel/UCRK4FDIkUyslEAUdyRDdCtQ/live
 NEWSX | English | |
 https://www.youtube.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig/live
 
-OE24.TV: Alle News live | English | |
-https://www.youtube.com/channel/UCyQpfuhftLvrmjxgEzVH78Q/live
-
 RT | English | |
 https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
 
@@ -463,10 +463,10 @@ https://www.youtube.com/channel/UCaFBF255LGHwqSB35kN7jsA/live
 KHABRAIN ABHITAK | Hindi | |
 https://www.youtube.com/channel/UCay0q8cEQlusmaY3FYl13fQ/live
 
-LOKSABHA TV | Hindi | |
+Sansad TV (LOKSABHA TV) | Hindi | |
 https://www.youtube.com/channel/UCrXvTLS-1ye7MmZhsi_cpOQ/live
 
-Ministry of Information Broadcasting | Hindi | |
+Ministry of I & B | Hindi | |
 https://www.youtube.com/channel/UCvoGqD4Rrl0nsFxlsjRvx4w/live
 
 MP News TV | Hindi | |
@@ -511,8 +511,11 @@ https://www.youtube.com/c/PresidentOfIndia/live
 PRIME NEWS | Hindi | |
 https://www.youtube.com/channel/UCnH1cUnkvs2c8wcHl5voamA/live
 
-RSTV Rajya Sabha | Hindi | |
+Sansad TV (RSTV) | Hindi | |
 https://www.youtube.com/channel/UCISgnSNwqQ2i8lhCun3KtQg/live
+
+Sansad TV (RSTV) | Hindi | |
+https://www.youtube.com/user/rajyasabhatv/live
 
 STATE LIVE | Hindi | |
 https://www.youtube.com/channel/UCtfHXNyT81qFL8U4nAOZ8ug/live
