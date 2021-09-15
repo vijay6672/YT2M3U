@@ -97,6 +97,9 @@ https://www.youtube.com/channel/UCFtEEv80fQVKkD4h1PF-Xqw/live
 Microsoft Developer | Educational | |
 https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g/live
 
+Microsoft Developer | Educational | |
+https://www.youtube.com/c/MicrosoftDeveloper/live
+
 Windows Developer | Educational | |
 https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA/live
 
@@ -400,6 +403,9 @@ https://www.youtube.com/channel/UCKrXAcPJPFewJ0z1G-GgjTw/live
 PIB India | Hindi | |
 https://www.youtube.com/user/pibindia/live
 
+Digital India | Hindi | |
+https://www.youtube.com/c/DigitalIndiaofficial/live
+
 NEWS ON AIR OFFICIAL | Hindi | |
 https://www.youtube.com/channel/UCYOv0QZr2B70Rkx_ZqIA84w/live
 
@@ -498,6 +504,9 @@ https://www.youtube.com/channel/UC7FlLbNo66YsCEAPuJITiNg/live
 
 PMO INDIA | Hindi | |
 https://www.youtube.com/channel/UCDS9hpqUEXsXUIcf0qDcBIA/live
+
+President of India | Hindi | |
+https://www.youtube.com/c/PresidentOfIndia/live
 
 PRIME NEWS | Hindi | |
 https://www.youtube.com/channel/UCnH1cUnkvs2c8wcHl5voamA/live
@@ -634,6 +643,9 @@ https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/live
 YOYO TV | Telugu | |
 https://www.youtube.com/channel/UCJ97pLhPp-CU9Tj4-dp9B6g/live
 
+YOYO TV News | Telugu | |
+https://www.youtube.com/c/YOYOTVNews/live
+
 ACE MEDIA | Telugu | |
 https://www.youtube.com/channel/UCSMzZUt-3jfSTPtCNRPT4jA/live
 
@@ -675,6 +687,9 @@ https://www.youtube.com/channel/UCdMBr4exmaOKoyJV5NION0w/live
 
 TV9 Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png |
 https://www.youtube.com/user/tv9telugulive/live
+
+TV9 Telugu Digital | Telugu | https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png |
+https://www.youtube.com/channel/UCg6JyAGrskayg14qJP3598g/live
 
 NTV Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/nn/ntv_telugu_in.png |
 https://www.youtube.com/user/ntvteluguhd/live
