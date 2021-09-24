@@ -7,7 +7,7 @@
 
 Not all the channels telecast live all the times.
 If any channel have multiple live streams only 1st live stream will be visible.
-Updated m3u links of YouTube live channels, auto-updated every 3 hours.
+Updated m3u links of YouTube live channels, auto-updated every 2 hours.
 
 
 ### Add more channels
