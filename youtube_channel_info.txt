@@ -47,9 +47,6 @@ Raj News | Tamil | https://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png |
 https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
 
 Puthiya Thalaimurai | Tamil | https://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png | 677
-https://www.youtube.com/channel/UCrUDEn3cpDflrR4ZL9oVUrQ/live
-
-Puthiya Thalaimurai | Tamil | https://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png | 677
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 
 Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
@@ -123,9 +120,6 @@ https://www.youtube.com/channel/UCBZGE2wdqCuXPLQoy_Yd4fg/live
 
 Geeks for Geeks | Educational | |
 https://www.youtube.com/c/GeeksforGeeksVideos/live
-
-Roland Martin Unfiltered | English | |
-https://www.youtube.com/user/rolandsmartin/live
 
 CGTN Europe | English | https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
@@ -744,6 +738,9 @@ https://www.youtube.com/user/mahaanews/live
 
 Raj News Telugu | Telugu | https://yt3.ggpht.com/ytc/AAUvwnjCV79paU0oVv_CvDxfKo_eVEi8p6p2_mW3wewgCg=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0Bj4Nb_UfHvW5Oe2f8aCFg/live
+
+Raj News Telugu | Telugu | https://yt3.ggpht.com/ytc/AAUvwnjCV79paU0oVv_CvDxfKo_eVEi8p6p2_mW3wewgCg=s900-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCWT5OQg1BIahaqBEr7KXCpA/live
 
 Raj News Telugu | Telugu | https://yt3.ggpht.com/ytc/AAUvwnjCV79paU0oVv_CvDxfKo_eVEi8p6p2_mW3wewgCg=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCLF6LTfTX_eO-LeLbarKlvw/live
