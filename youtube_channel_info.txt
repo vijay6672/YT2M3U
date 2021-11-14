@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
+24 News | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
 
 Kairali News | Malayalam | https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png |
@@ -11,18 +11,18 @@ Asianet News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/c/c4/A
 https://www.youtube.com/user/asianetnews/live
 
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCG-vTyqxtqwqOXWoumEQc8g/live
+https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
 
 Mathrubhumi News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png |
 https://www.youtube.com/user/TVMathrubhumi/live
 
-Media One News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png |
+Mediaone News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png |
 https://www.youtube.com/user/MediaoneTVLive/live
 
 Manorama News | Malayalam | https://www.lyngsat-logo.com/logo/tv/mm/manorama_news_central.png |
 https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 
-News 18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
+News18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
 Jaihind TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg |
