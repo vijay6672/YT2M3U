@@ -52,9 +52,6 @@ https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
 https://www.youtube.com/user/PTTVOnlineNews/live
 
-Puthiya Thalaimurai Digital| Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
-https://www.youtube.com/channel/UCyOuAR7CC8jY5AGX77gwovQ/live
-
 Kalaignar TV News | Tamil | https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png |
 https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
 
@@ -118,7 +115,7 @@ https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ/live
 Hindi Pod101 | Educational | |
 https://www.youtube.com/channel/UCQjj7y-JGGj12vwhIbuz62Q/live
 
-Maths 101 | Educational | |
+JEE Math Rankers | Educational | |
 https://www.youtube.com/channel/UCBZGE2wdqCuXPLQoy_Yd4fg/live
 
 Geeks for Geeks | Educational | |
@@ -315,6 +312,9 @@ https://www.youtube.com/channel/UCxIsefyl9g9A5SGWA4FvGIA/live
 
 Yahoo Finance | English | |
 https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg/live
+
+Mastiii | Hindi | |
+https://www.youtube.com/channel/UCtgl-w7Xc3CWTQ6WQYxqbKg/live
 
 NDTV India | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png |
 https://www.youtube.com/user/ndtvindia/live
