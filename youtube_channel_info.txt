@@ -82,6 +82,9 @@ https://www.youtube.com/channel/UClXRJRPICNPraGCLx04iALA/live
 SVBC2 TTD | Tamil | |
 https://www.youtube.com/channel/UCsLjLyPnPH4hile6qzNnlgw/live
 
+Star Music India | Tamil | |
+https://www.youtube.com/user/Starmusicindia/live
+
 dotNET | Educational | |
 https://www.youtube.com/c/dotNET/live
 
@@ -315,6 +318,12 @@ https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg/live
 
 NDTV India | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png |
 https://www.youtube.com/user/ndtvindia/live
+
+Shemaroo Comedy | Hindi | |
+https://www.youtube.com/channel/UC0PKLLmL8pIJLjOI1gBH_pA/live
+
+Hindi AR Entertainments | Hindi | |
+https://www.youtube.com/channel/UCF_xLQFSgkdQ3hcsSy9F3Zw/live
 
 IndiaTV | Hindi | |
 https://www.youtube.com/user/IndiaTV/live
@@ -613,11 +622,20 @@ https://www.youtube.com/channel/UCpSzMrVC36NictxkhZR1Kpw/live
 MANGO MUSIC | Telugu | |
 https://www.youtube.com/channel/UCWqyzn3cDkRDh3kRGWrIQwA/live
 
+Mango Music | Telugu | |
+https://www.youtube.com/c/mangomusic/live
+
+Mango Music | Telugu | |
+https://www.youtube.com/user/mangomusic/live
+
 Metro TV Telugu | Telugu | |
 https://www.youtube.com/channel/UCnsuUUZ_48m8RVHj_08CYdw/live
 
 Nationalist Hub | Telugu | |
 https://www.youtube.com/channel/UC3tSxEsn4I2bOH0R7yqJspw/live
+
+SumanTv News | Telugu | |
+https://www.youtube.com/channel/UCZ9NvA_Pr0OA2Qcp-QTtOkA/live
 
 News18 Telugu | Telugu | |
 https://www.youtube.com/channel/UC-PPlFHLfi4wcFOe6DrReCQ/live
@@ -687,9 +705,6 @@ https://www.youtube.com/c/BBCNewsTelugu/live
 
 QNews | Telugu | |
 https://www.youtube.com/c/TeenmaarMallannaOfficial/live
-
-Mango Music | Telugu | |
-https://www.youtube.com/c/mangomusic/live
 
 Masterkey TV | Telugu | |
 https://www.youtube.com/channel/UCdMBr4exmaOKoyJV5NION0w/live
