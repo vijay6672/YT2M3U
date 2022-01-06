@@ -6,7 +6,7 @@
 `https://raw.githubusercontent.com/vijay6672/YT2M3U/main/youtube.m3u`
 
 Not all the channels telecast live all the times.
-If any channel have multiple live streams only 1st live stream will be visible.
+If any channel have multiple live streams, only 1st live stream will be visible.
 Updated m3u links of YouTube live channels, auto-updated every 2 hours.
 
 
