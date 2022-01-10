@@ -28,6 +28,18 @@ https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 Jaihind TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg |
 https://www.youtube.com/user/jaihindtvns/live
 
+Janam TV | Malayalam | |
+https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
+
+Kaumudy | Malayalam | |
+https://www.youtube.com/channel/UCyPqtsdtFs2DKfK5G-JNslQ/live
+
+Keralakaumudi News | Malayalam | |
+https://www.youtube.com/channel/UCY18ujuIEIqOBywA0RfbINQ/live
+
+Mangalam Television | Malayalam | |
+https://www.youtube.com/channel/UCbdTuwZxsxuxAp_UGbl7YpA/live
+
 Polimer News | Tamil | https://www.lyngsat-logo.com/logo/tv/pp/polimer_in_news.png | 636
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
@@ -69,6 +81,9 @@ https://www.youtube.com/channel/UCjPq8C3_m0OPF1n1sCPaXUA/live
 
 Sathiyam News | Tamil | |
 https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
+
+Malaimurasu News Digital | Tamil | |
+https://www.youtube.com/channel/UClSnK-IkAwLAOLoaFaRcBrw/live
 
 V News27 | Tamil | https://www.lyngsat-logo.com/logo/tv/vv/vtv-news-in.png |
 https://www.youtube.com/channel/UC6OTvR4AB1CHC4HT_AlOmHg/live
@@ -310,6 +325,9 @@ https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg/live
 TODAY | English | |
 https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/live
 
+DD INDIA | English | |
+https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
+
 Dabangg TV | Hindi | |
 https://www.youtube.com/channel/UCkmh47vEakhzTC619nOcQ6A/live
 
@@ -321,6 +339,9 @@ https://www.youtube.com/user/ndtvindia/live
 
 Shemaroo Comedy | Hindi | |
 https://www.youtube.com/channel/UC0PKLLmL8pIJLjOI1gBH_pA/live
+
+Shemaroo Comedy | Hindi | |
+https://www.youtube.com/user/indiancomedy/live
 
 Hindi AR Entertainments | Hindi | |
 https://www.youtube.com/channel/UCF_xLQFSgkdQ3hcsSy9F3Zw/live
@@ -435,9 +456,6 @@ https://www.youtube.com/channel/UCN7B-QD0Qgn2boVH5Q0pOWg/live
 
 DD BHARATI | Hindi | |
 https://www.youtube.com/channel/UCIAnlTV3O9NYWMI-DwYZaWg/live
-
-DD INDIA | Hindi | |
-https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
 
 DD JAMMU | Hindi | |
 https://www.youtube.com/channel/UC8e8pGUfxubzuZUvW43O3Gg/live
@@ -583,6 +601,9 @@ https://www.youtube.com/channel/UCelGDRpGe_gRwT88ASp5eVQ/live
 ABHITAK NEWS | Hindi | |
 https://www.youtube.com/channel/UCQVgzFyRv2RImUisFG0DSYA/live
 
+INDIA NOW | Telugu | |
+https://www.youtube.com/channel/UCvsyE4AxcScdZniKZthyAgg/live
+
 TFPC-Telugu Film Producers Council | Telugu | |
 https://www.youtube.com/c/TFPC/live
 
@@ -597,6 +618,9 @@ https://www.youtube.com/channel/UCM1EBPWj-Pg4FVR0QDG7G8w/live
 
 Telugu Junction AR Entertainments | Telugu | |
 https://www.youtube.com/c/TeluguJunctionAREntertainments/live
+
+Telugu Junction AR Entertainments | Telugu | |
+https://www.youtube.com/channel/UCigwIOn1yCeH9g5C_lmbZ0Q/live
 
 AR Entertainments Movies | Telugu | |
 https://www.youtube.com/user/TeluguOnlineMasti/live
@@ -963,3 +987,6 @@ https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
 
 ZoomOn News| Marathi |  |
 https://www.youtube.com/c/zoomonnews/live
+
+Maiboli TV | Marathi |  |
+https://www.youtube.com/channel/UCxDDiFEB2wrrQuKnx8OrevQ/live
