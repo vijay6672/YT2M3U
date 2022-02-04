@@ -11,6 +11,9 @@ Asianet News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/c/c4/A
 https://www.youtube.com/user/asianetnews/live
 
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCG-vTyqxtqwqOXWoumEQc8g/live
+
+Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
 
 Mathrubhumi News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png |
@@ -31,11 +34,11 @@ https://www.youtube.com/user/jaihindtvns/live
 Janam TV | Malayalam | |
 https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
 
+Kaumudy News | Malayalam | |
+https://www.youtube.com/channel/UCY18ujuIEIqOBywA0RfbINQ/live
+
 Kaumudy | Malayalam | |
 https://www.youtube.com/channel/UCyPqtsdtFs2DKfK5G-JNslQ/live
-
-Keralakaumudi News | Malayalam | |
-https://www.youtube.com/channel/UCY18ujuIEIqOBywA0RfbINQ/live
 
 Mangalam Television | Malayalam | |
 https://www.youtube.com/channel/UCbdTuwZxsxuxAp_UGbl7YpA/live
@@ -46,7 +49,7 @@ https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 News7 Tamil Prime| Tamil | https://www.lyngsat-logo.com/logo/tv/nn/news7_tamil_in.png | 673
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-NewsJ Tamil | Tamil | https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png | 
+NewsJ | Tamil | https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png | 
 https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
 
 Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 830
@@ -55,7 +58,7 @@ https://www.youtube.com/c/ThanthitvNews/live
 News18 TamilNadu | Tamil | http://7starcloud.in/NB.png | ts58
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Raj News | Tamil | https://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png |
+Raj News Tamil | Tamil | https://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png |
 https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
 
 Puthiya Thalaimurai | Tamil | https://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png | 677
@@ -82,6 +85,9 @@ https://www.youtube.com/channel/UCjPq8C3_m0OPF1n1sCPaXUA/live
 Sathiyam News | Tamil | |
 https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 
+Malaimurasu News | Tamil | |
+https://www.youtube.com/c/MalaimurasuTv24X7/live
+
 Malaimurasu News Digital | Tamil | |
 https://www.youtube.com/channel/UClSnK-IkAwLAOLoaFaRcBrw/live
 
@@ -91,7 +97,10 @@ https://www.youtube.com/channel/UC6OTvR4AB1CHC4HT_AlOmHg/live
 STV News 24/7 | Tamil | |
 https://www.youtube.com/channel/UClXRJRPICNPraGCLx04iALA/live
 
-SVBC2 TTD | Tamil | |
+SVBC TTD Tamil | Tamil | |
+https://www.youtube.com/channel/UCTboTRX74UydvU_cBdm_cCQ/live
+
+SVBC TTD Tamil | Tamil | |
 https://www.youtube.com/channel/UCsLjLyPnPH4hile6qzNnlgw/live
 
 Star Music India | Tamil | |
