@@ -175,6 +175,9 @@ https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
 Bloomberg Quicktake | English | |
 https://www.youtube.com/user/Bloomberg/live
 
+Bloomberg Quicktake | English | |
+https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ/live
+
 Bloomberg Quicktake Now | English | |
 https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live
 
@@ -205,7 +208,7 @@ https://www.youtube.com/user/Euronews/live
 EuroNews | English | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
 https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 
-AfricaNews | English | |
+AfricaNews English | English | |
 https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live
 
 NTV Uganda | English | |
@@ -238,6 +241,9 @@ https://www.youtube.com/channel/UCwVQIkAtyZzQSA-OY1rsGig/live
 Explore Oceans | English | |
 https://www.youtube.com/c/ExploreOceans/live
 
+Explore Oceans | English | |
+https://www.youtube.com/channel/UCSyg9cb3Iq-NtlbxqNB9wGw/live
+
 CVR English | English | https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png |
 https://www.youtube.com/user/CVREnglishOfficial/live
 
@@ -253,37 +259,31 @@ https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw/live
 Republic TV | English | https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png |
 https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
 
-The World Live- earthTV | English | |
+earthTV | English | |
 https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ/live
 
-Explore Oceans | English | |
-https://www.youtube.com/channel/UCSyg9cb3Iq-NtlbxqNB9wGw/live
-
-ABC7 SWFL | English | |
+ABC7 News SWFL | English | |
 https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live
 
 ARCADIA WORLD HD | English | |
 https://www.youtube.com/channel/UCySoNg54OYL6oImf7XhJaUA/live
 
-Arirang TV | English | |
+Arirang TV World | English | |
 https://www.youtube.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ/live
 
 Arirang TV UN | English | |
 https://www.youtube.com/channel/UCoE40Ou0_K3NRomrLdHt2Vg/live
 
-Astronaut Spacewalk Earth Views | English | |
+CosmoSapiens | English | |
 https://www.youtube.com/channel/UC3ZODI-xZfdPanPP6tKUg9g/live
-
-Bloomberg | English | |
-https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ/live
 
 CBS News | English | |
 https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g/live
 
-CNBC | English | |
+CNBC Television | English | |
 https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw/live
 
-CNBC Africa | English | |
+CNBC Africa Business News | English | |
 https://www.youtube.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ/live
 
 FOX BUSINESS | English | |
@@ -292,10 +292,10 @@ https://www.youtube.com/channel/UCCXoCcu9Rp7NPbTzIvogpZg/live
 FOX NEWS | English | |
 https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live
 
-NASA - Earth From Space | English | |
+NASA TV - Earth From Space | English | |
 https://www.youtube.com/channel/UCIR_LPmEQ9QHR0yB2lxgaxQ/live
 
-NASA | English | |
+NASA TV Media | English | |
 https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ/live
 
 NBC NEWS | English | |
