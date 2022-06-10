@@ -28,7 +28,7 @@ https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 News18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
-Jaihind TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg |
+JaiHind TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg |
 https://www.youtube.com/user/jaihindtvns/live
 
 Janam TV | Malayalam | |
@@ -220,7 +220,7 @@ https://www.youtube.com/user/ntvuganda/live
 Telesur English | English | |
 https://www.youtube.com/user/telesurenglish/live
 
-LiveNOW from FOX | English | |
+Live NOW from FOX | English | |
 https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live
 
 Channels TV | English | |
@@ -235,7 +235,7 @@ https://www.youtube.com/channel/UCDvLvvN8o6kdW7OaN7CciXw/live
 CricHeroes Livestream 1 TV | English | |
 https://www.youtube.com/channel/UCUcqHjqBlq9pawNxOpnmMkA/live
 
-5Minute Crafts | English | |
+5 Minute Crafts | English | |
 https://www.youtube.com/c/5MinuteCraftsYouTube/live
 
 Chill Music Lab | English | |
@@ -382,7 +382,7 @@ https://www.youtube.com/channel/UC4D3WMBqMfS5f9QrcT6xkgg/live
 A1TV | Hindi | |
 https://www.youtube.com/channel/UCyky9PDwU5cClLPYSLVhQmQ/live
 
-SagarTV News| Hindi | |
+Sagar TV News| Hindi | |
 https://www.youtube.com/channel/UC0H9yv0_HwJLu_hVj6X3flw/live
 
 Metro City Samachar | Hindi | |
@@ -583,7 +583,7 @@ https://www.youtube.com/channel/UCjyLPYDYfH-DvxerhRS3h4Q/live
 Swamiji TV | Hindi | |
 https://www.youtube.com/channel/UCKJyvGSXm17soKMyEot24HQ/live
 
-PrasarBharati Sports | Hindi | https://www.lyngsat-logo.com/logo/tv/dd/dd-sports-in.png |
+Prasar Bharati Sports | Hindi | https://www.lyngsat-logo.com/logo/tv/dd/dd-sports-in.png |
 https://www.youtube.com/c/PrasarBharatiSports/live
 
 Khabar Madhya Pradesh | Hindi | |
@@ -619,7 +619,7 @@ https://www.youtube.com/channel/UCelGDRpGe_gRwT88ASp5eVQ/live
 ABHITAK NEWS | Hindi | |
 https://www.youtube.com/channel/UCQVgzFyRv2RImUisFG0DSYA/live
 
-aha videoIN | Telugu | |
+aha video IN | Telugu | |
 https://www.youtube.com/c/ahavideoIN/live
 
 Shreyas Media | Telugu | |
@@ -790,10 +790,10 @@ https://www.youtube.com/c/TeenmaarMallannaOfficial/live
 ARCHANA TV | Telugu | |
 https://www.youtube.com/channel/UCztiSRVWvqkopmFmdvKV2Tg/live
 
-Masterkey TV | Telugu | |
+Master key TV | Telugu | |
 https://www.youtube.com/channel/UCdMBr4exmaOKoyJV5NION0w/live
 
-Masterkey TV | Telugu | |
+Master key TV | Telugu | |
 https://www.youtube.com/channel/UCB2ZT3sWOBECLI-eKci-vXA/live
 
 TV9 Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png |
@@ -832,7 +832,7 @@ https://www.youtube.com/user/6tv/live
 10TV Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png |
 https://www.youtube.com/user/10TVNewsChannel/live
 
-hmtv | Telugu | https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png |
+HMTV | Telugu | https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png |
 https://www.youtube.com/user/hmtvlive/live
 
 ETV Telangana | Telugu | https://www.lyngsat-logo.com/logo/tv/ee/etv_3_telangana.png |
@@ -850,7 +850,7 @@ https://www.youtube.com/channel/UCN32vQHRhpuzL-e94YOarbA/live
 iNews | Telugu | https://www.lyngsat-logo.com/logo/tv/ii/i_news_in.png |
 https://www.youtube.com/channel/UCvkPFcsjR_LmjLA54e_1syw/live
 
-99TV | Telugu | https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png |
+99 TV | Telugu | https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png |
 https://www.youtube.com/user/99TVOfficial/live
 
 Mahaa News | Telugu | https://mahaanews.com/wp-content/uploads/2018/12/logo-1.jpg |
@@ -955,7 +955,7 @@ https://www.youtube.com/c/DaveAndAva/live
 POCOYO | Kids | |
 https://www.youtube.com/user/POCOYOUSA/live
 
-ChuChuTV | Kids | |
+ChuChu TV | Kids | |
 https://www.youtube.com/c/ChuChuTV/live
 
 PJ Masks | Kids | |
