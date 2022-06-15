@@ -28,7 +28,7 @@ https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 News18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
-JaiHind TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg |
+Jai Hind TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg |
 https://www.youtube.com/user/jaihindtvns/live
 
 Janam TV | Malayalam | |
@@ -49,7 +49,7 @@ https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 News7 Tamil Prime| Tamil | https://www.lyngsat-logo.com/logo/tv/nn/news7_tamil_in.png | 673
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-NewsJ | Tamil | https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png | 
+News J | Tamil | https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png | 
 https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
 
 Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 830
@@ -130,7 +130,7 @@ https://www.youtube.com/channel/UCzLbHrU7U3cUDNQWWAqjceA/live
 Windows | Educational | |
 https://www.youtube.com/channel/UCVGOyzms_XJNk_DHqrffXCw/live
 
-edureka! | Educational | |
+edureka | Educational | |
 https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ/live
 
 GitHub | Educational | |
@@ -163,7 +163,7 @@ https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 Sky News | English | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/skynews/live
 
-GBNews | English | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
+GB News | English | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
 Al Jazeera English | English | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
@@ -232,7 +232,7 @@ https://www.youtube.com/channel/UCef1-8eOpJgud7szVPlZQAQ/live
 English TV | English | |
 https://www.youtube.com/channel/UCDvLvvN8o6kdW7OaN7CciXw/live
 
-CricHeroes Livestream 1 TV | English | |
+Cric Heroes Livestream 1 TV | English | |
 https://www.youtube.com/channel/UCUcqHjqBlq9pawNxOpnmMkA/live
 
 5 Minute Crafts | English | |
@@ -262,13 +262,13 @@ https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw/live
 Republic TV | English | https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png |
 https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
 
-earthTV | English | |
+earth TV | English | |
 https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ/live
 
 ABC7 News SWFL | English | |
 https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live
 
-ARCADIA WORLD HD | English | |
+ARCADIA | English | |
 https://www.youtube.com/channel/UCySoNg54OYL6oImf7XhJaUA/live
 
 Arirang TV World | English | |
@@ -364,7 +364,7 @@ https://www.youtube.com/user/indiancomedy/live
 Hindi AR Entertainments | Hindi | |
 https://www.youtube.com/channel/UCF_xLQFSgkdQ3hcsSy9F3Zw/live
 
-IndiaTV | Hindi | |
+India TV | Hindi | |
 https://www.youtube.com/user/IndiaTV/live
 
 Times Now Navbharat | Hindi | |
@@ -601,7 +601,7 @@ https://www.youtube.com/channel/UCIR6XVjmkuVhGTVVcQnDS7g/live
 Peace of Mind TV | Hindi | |
 https://www.youtube.com/channel/UCmw4wZ3FRso2TsS36FQ6heA/live
 
-Om Shanti Channel GWS | Hindi | |
+Om Shanti Channel | Hindi | |
 https://www.youtube.com/channel/UCUcvsN9Jqc4RzVvMlJ1y_FA/live
 
 Awakening TV | Hindi | |
@@ -718,7 +718,7 @@ https://www.youtube.com/channel/UCZ9NvA_Pr0OA2Qcp-QTtOkA/live
 News18 Telugu | Telugu | |
 https://www.youtube.com/channel/UC-PPlFHLfi4wcFOe6DrReCQ/live
 
-NewsNow | Telugu | |
+News Now | Telugu | |
 https://www.youtube.com/channel/UCx8thMB9ByBPyhUbnpVixIA/live
 
 News Now Telugu Digital | Telugu | |
@@ -760,10 +760,10 @@ https://www.youtube.com/channel/UCjvlGpg8tXylzRqdFExxUZw/live
 SumanTV News 24x7 LIVE | Telugu | |
 https://www.youtube.com/c/SumanTVChannel/live
 
-VolgaVideo | Telugu | |
+Volga Video | Telugu | |
 https://www.youtube.com/c/VolgaVideo/live
 
-VolgaVideo | Telugu | |
+Volga Video | Telugu | |
 https://www.youtube.com/user/newvolgavideo/live
 
 TSAT Network | Telugu | |
@@ -775,7 +775,7 @@ https://www.youtube.com/channel/UCausY4La9nIg1WXIDkvx-YA/live
 Santosham Suresh | Telugu | |
 https://www.youtube.com/channel/UCAZLIGT34B3O-gDpIblZFjA/live
 
-BhavaniHD Movies | Telugu | |
+Bhavani HD Movies | Telugu | |
 https://www.youtube.com/c/BhavaniHDMovies/live
 
 Studio Yuva | Telugu | https://www.lyngsat-logo.com/logo/tv/ss/studio-yuva-in.png |
@@ -784,7 +784,7 @@ https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 BBC News Telugu | Telugu | |
 https://www.youtube.com/c/BBCNewsTelugu/live
 
-QNews | Telugu | |
+Q News | Telugu | |
 https://www.youtube.com/c/TeenmaarMallannaOfficial/live
 
 ARCHANA TV | Telugu | |
@@ -844,10 +844,10 @@ https://www.youtube.com/user/newsetv/live
 ETV Andhra Pradesh | Telugu | https://www.lyngsat-logo.com/logo/tv/ee/etv_2_andhra_pradesh_in.png |
 https://www.youtube.com/user/etv2india/live
 
-iNews | Telugu | https://www.lyngsat-logo.com/logo/tv/ii/i_news_in.png |
+i News | Telugu | https://www.lyngsat-logo.com/logo/tv/ii/i_news_in.png |
 https://www.youtube.com/channel/UCN32vQHRhpuzL-e94YOarbA/live
 
-iNews | Telugu | https://www.lyngsat-logo.com/logo/tv/ii/i_news_in.png |
+i News | Telugu | https://www.lyngsat-logo.com/logo/tv/ii/i_news_in.png |
 https://www.youtube.com/channel/UCvkPFcsjR_LmjLA54e_1syw/live
 
 99 TV | Telugu | https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png |
@@ -994,10 +994,10 @@ https://www.youtube.com/watch?v=qXMyq1bit5U
 Shree KasthBhanjandev Hanumanji Mandir Salangpur | Devotional | |
 https://www.youtube.com/watch?v=7N_vRmmwcsM
 
-Shree Siddhivinayak Temple Live | Devotional | |
+Shree Siddhivinayak Temple | Devotional | |
 https://www.youtube.com/watch?v=JNDuvDIwjXM
 
-Shree Mahakaleshwar Mandir Live Stream | Devotional | |
+Shree Mahakaleshwar Mandir | Devotional | |
 https://www.youtube.com/watch?v=WF1ny1Ol-xY
 
 Bhuj Mandir NarNarayan Dev Darshan | Devotional | |
