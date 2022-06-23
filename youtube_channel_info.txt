@@ -838,7 +838,10 @@ https://www.youtube.com/channel/UCU7kNjtuEfaOc9CUn0zmrqw/live
 T News | Telugu | https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png |
 https://www.youtube.com/channel/UCu6edg8_eu3-A8ylgaWereA/live
 
-6TV Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/num/6_tv_in.png |
+6TV News | Telugu | https://www.lyngsat-logo.com/logo/tv/num/6_tv_in.png |
+https://www.youtube.com/user/6tvtelangana/live
+
+6TV | Telugu | https://www.lyngsat-logo.com/logo/tv/num/6_tv_in.png |
 https://www.youtube.com/user/6tv/live
 
 10TV Telugu | Telugu | https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png |
