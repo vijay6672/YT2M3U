@@ -5,8 +5,8 @@
 
 `https://raw.githubusercontent.com/vijay6672/YT2M3U/main/youtube.m3u`
 
-Not all the channels telecast live all the times.
-If any channel have multiple live streams, only 1st live stream will be visible.
+Not all the channels telecast live stream all the times.
+If any channel have multiple live streams, only primary live stream will be visible.
 Updated m3u links of YouTube live channels, auto-updated every 2 hours.
 
 
@@ -26,4 +26,4 @@ chmod +x autorun.sh
 ./autorun.sh
 ```
 
-Do not forget to add a cron job set for every 2 hours(or 3) if you plan to run the script locally.
+Do not forget to add a cron job set for every 2 hours (or 3) if you plan to run the script locally.
