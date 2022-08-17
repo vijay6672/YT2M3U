@@ -454,6 +454,9 @@ https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live
 Zee News | Hindi | |
 https://www.youtube.com/user/zeenews/live
 
+Zee Delhi-NCR Haryana | Hindi | |
+https://www.youtube.com/channel/UCG6L5cIg2XZvXVksq5B9edw/live
+
 CNBC Awaaz | Hindi | https://www.lyngsat-logo.com/logo/tv/cc/cnbc_awaaz.png |
 https://www.youtube.com/user/cnbcawaaz/live
 
@@ -550,26 +553,56 @@ https://www.youtube.com/channel/UC1NF71EwP41VdjAU1iXdLkw/live
 News Bharat | Hindi | |
 https://www.youtube.com/channel/UCgCli0lrWwZjkcDr44fmJDw/live
 
-News18 UPUK | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news_18_in.png |
+News18 Jammu | Hindi | |
+https://www.youtube.com/channel/UC6stTr8aMsvcFUA6G11hHIw/live
+
+News18 Ladakh | Hindi | |
+https://www.youtube.com/channel/UCMIraIjM75VfrxBOvIA9OQQ/live
+
+News18 Kashmir | Hindi | |
+https://www.youtube.com/channel/UCRcye_z41WXpW5JalQm8wJw/live
+
+News18 Himachal | Hindi | |
+https://www.youtube.com/channel/UCL6yuVGsehBHfP-mrffkq5w/live
+
+News18 UP Uttarakhand | Hindi | |
 https://www.youtube.com/channel/UCafYgzpyw7aIUYOLjjADu7w/live
 
-News18 Bihar Jharkhand | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news_18_in.png |
+News18 UP Uttarakhand | Hindi | |
+https://www.youtube.com/c/News18UPUttarakhand/live
+
+News18 Bihar Jharkhand | Hindi | |
 https://www.youtube.com/channel/UC531MlZA5LUbeGwEN_zcppw/live
 
-News18 MPCG | Hindi | https://www.lyngsat-logo.com/logo/tv/nn/news_18_in.png |
+News18 Bihar Jharkhand | Hindi | |
+https://www.youtube.com/c/News18BiharJharkhand/live
+
+News18 MP Chhattisgarh | Hindi | |
 https://www.youtube.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ/live
 
-NEWS18 HINDI | Hindi | |
+News18 MP Chhattisgarh | Hindi | |
+https://www.youtube.com/c/News18MPChhattisgarh/live
+
+News18 Hindi | Hindi | |
 https://www.youtube.com/channel/UCn1P85eKDEXS2iwbcasBm-g/live
 
-NEWS18 INDIA | Hindi | |
+News18 India | Hindi | |
 https://www.youtube.com/channel/UCPP3etACgdUWvizcES1dJ8Q/live
 
-NEWS18 PHH | Hindi | |
+News18 India | Hindi | |
+https://www.youtube.com/c/news18India/live
+
+News18 Punjab/Haryana/Himachal | Hindi | |
 https://www.youtube.com/channel/UC-crZTQNRzZgzyighTKF0nQ/live
 
-NEWS18 RS | Hindi | |
+News18 Punjab/Haryana/Himachal | Hindi | |
+https://www.youtube.com/c/News18PunjabHaryanaHimachalchannel/live
+
+News18 Rajasthan | Hindi | |
 https://www.youtube.com/channel/UC7FlLbNo66YsCEAPuJITiNg/live
+
+News18 Rajasthan | Hindi | |
+https://www.youtube.com/c/News18Rajasthan/live
 
 News31 Uttarakhand | Hindi | |
 https://www.youtube.com/channel/UC6INsy2j37wqhoSOBdUNdFQ/live
