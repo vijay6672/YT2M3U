@@ -12,37 +12,37 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297498/ei/eu2FZdvaC4i_j-8P5JyykAM/ip/74.249.14.176/id/V_MXWptocIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5v9-iGZM0vqxrPZMtSleEdh_3a2mkCumpp2cw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTIH0H2uBdL0LPxs_mhKsJuLqz_o76QLTfyVOJm5uedUCIG6rlXnBcGEBRuuWterRt-ThvbTvZNRxBSoWr3VD14M-/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png" tvg-id="", Kairali News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297498/ei/eu2FZaKwMZqN_9EPueCc6AY/ip/74.249.14.176/id/K-OZ1WUMArA.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f880o8MEYEiaKukNSdI_6BjIKic3JjozfjM0UQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKLsW--P8OKotdIED3_S__ItJdJ59mCvr5Mee3WjFVr9AiAZhlTWlXqEpLkRp6GnHrNWX_b7b06t_vMqaYBKhzZGhQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297499/ei/e-2FZfG6Eve5_9EPtYm-mAM/ip/74.249.14.176/id/Ko18SgceYX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6qghxbd6LsXVmO69Jl7Y8c2GgywgzcTydKnvg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ855AfOgHZEfjyQaGyWOh9BRfcKl2B7oKRAGe0zkfqtAiBMDszEALzawSh921finDTOCDHpj47_15WXTUVdYCXrKg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Reporter
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297500/ei/fO2FZbfBE_KP_9EPp6qTyAw/ip/74.249.14.176/id/HGOiuQUwqEw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwNh2Z2FNbxllIVF6fUp69zDNBl1rCkNfjEvnA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHs2N4QMLkMEfxf8ellkmxouYq8DeFLdncwWYTzglY14CIQDVwHadJOA5tBAgAtD_v3xZ2jEJkgVrwg5oi-YuR-st8Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297500/ei/fO2FZaX7NceU_9EP_u6Z4AQ/ip/74.249.14.176/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f50Im4zdPn-grXLUZJsbETRZL0ZZ-TULE6M59w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNd86_DWXq52sblzil0_IzijFpmu-GTpgUtbE1P4UujICIQDsncEF3JNmOl8XudchQprnG9XWvIj4Zq1staTKi-wgGA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Mediaone News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297501/ei/fe2FZZ6PJ4rDkATynriICA/ip/74.249.14.176/id/GIT1lX0NdHo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7l7QlhdvIwG1QHgJuQ5Mm1VhgaibEVx7ntV6Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL2C04MEWwxE4KH3DSQjuuceeKjZuXSXiYL2zWAxOX8KAiEAlgdEobuRd2xsBIav1nvLPAPVBmdKbgi-J3HZWgQdCSQ%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/manorama_news_central.png" tvg-id="", Manorama News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297502/ei/fu2FZeWOGc68_9EP7ay2uAY/ip/74.249.14.176/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7cpLguI14ffHQUDHzeMXNoI8SwTi8Cfk5gLXg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKuN6pCKajCGFbfOOdLaZZYEu9WZ-PwJNwTjuyeZU8qMAiEAw-59o7oxv7L1WhnwjoiWO_wiCmesFEW1U2vzXGaFWNw%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News18 Kerala
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297503/ei/fu2FZdrBO-KX_9EPtIWKkA0/ip/74.249.14.176/id/nmPznnxLZEA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6hREiD2uhH2opk0tZTHlAPtNeacpNGetd10pg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAWNVJxSskA5wEqtirKPAsNV0AiC5zfJ70il3jQLua0cCICUjJibZC6RStD_yh5lXb2IE0QakMZSvTRK26lUbkWb6/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="" tvg-id="", Janam TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297504/ei/f-2FZZuDPZ-t_9EP9feR-AY/ip/74.249.14.176/id/mCqZrEY5_jI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6BNSHsTCEPz0a6xSGUizJ-TpV6jLxh5wY8PMg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKHKk0-VU38A0SCgdUn09ekCRAhzeXxS5tYm9r5GMlegAiEA_jgGwM9uITaK55wS_K3zW2DPQdYIgFSr1thPTcC7gp4%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="" tvg-id="", Kaumudy News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -54,37 +54,37 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polimer_in_news.png" tvg-id="636", Polimer News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297505/ei/ge2FZdfKLN2Wy_sP9JmN4AE/ip/74.249.14.176/id/ptBe_gnJo5U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-uKI171CcGrsshh_835ndYlynz8ws4lQgwaSQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMldjRgEImrT5dicCVt7Ya9pcuzNfGv4wHqiiNnPzVEICICiiXs_egKeGXJriotvwOhXNLL_KOz1ooW45wDj2gjmS/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news7_tamil_in.png" tvg-id="673", News7 Tamil Prime
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png" tvg-id="", News J
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297506/ei/gu2FZZTyLIL2j-8P_4i0wAk/ip/74.249.14.176/id/eBFu7PWZ8l8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2c3Y-vTsjNpJjwrLRn-_XFs2mhQf48e2OUpbA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIHvm_3PPTPnqm_R5tyka3X9I7rptttH5JN-iWKyCDBOAiEA5y_YvqsNCMHbAfqnnD2QKr-C5LFwYF-Apxke38we3Zc%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297507/ei/g-2FZbzUFcG3_9EP_-ediAM/ip/74.249.14.176/id/FeweQREkl44.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1R_L1tHwQaRyRAy0sSORLgExYsb0goDuYi2Ng/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALBadsuhyUsO_fZBcuJeeRetObRcxWp8ei1WdHWLzEkVAiBN2P2dn4gPAvY5EwQj6Lfrn0SZUdHRfFz2xZQgNgDRJg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", News18 TamilNadu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297508/ei/g-2FZcPQOK-2_9EP5J246AY/ip/74.249.14.176/id/mQrZJFyYzlI.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyjBwngQKaO8bZLVdAopM-rMQnzDUVYe1WCL7Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWcYY5AXImX4NRn_Heu9UZh557Mzi6BuEPToaChmYmDcCIQC6aUgaYwnw9LieeWB087_zrMBiO8aL818IpblZAEOWvg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png" tvg-id="", Raj News Tamil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297508/ei/hO2FZcOgGYizkAPI_YvACg/ip/74.249.14.176/id/BuIic-8VeEE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxeYa8ZbL3RSfdcfEys9WxyKkQ7XdBsBYI6GdA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEkTNa8GD4OROQPuySk1LLOF020-TSRjr4thn_BIfFpUCIAZb5T4swqlVgYfyGfhRD3Z8uPNPexraAR7PsTCzml6j/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png" tvg-id="677", Puthiya Thalaimurai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297509/ei/he2FZcSKBaaEy_sP9Lu78AU/ip/74.249.14.176/id/ccZpGXxmkhs.64/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0RrClJogFgrrLTZO_29_WLYZAZaS-nwr7n0UQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHvmWkIcDA02LjkSmdx4FIuLNnSOqJnhVy_dg0X_-y0ACIQD1CdgcCt-yzdh2RbvC6uwQBU_rC5rNRULQRP4pUhZJqw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297509/ei/he2FZauUMcy8y_sPuLSjgAw/ip/74.249.14.176/id/ccZpGXxmkhs.64/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-Mx2pxnp1rEDo40j0gwC48tNM5625UPsYEl6w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZ1cmlTwpGZJEWIx3akBrNb0dUbu1Hq-5h2C4U9LhbmQCID28F_UrM-HmO2u0Ly0rUazoDD6SAX9IHziU9PLDUW8e/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png" tvg-id="", Kalaignar TV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297510/ei/hu2FZenaHti-y_sP6ee7yAo/ip/74.249.14.176/id/XOCUeiExfPE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyK5qI5MrVPRsBRIIbUaADLOtgfS2RWrlrdGmw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPXcwlOR-372DD6mcTvtkrHMzy_58hUXGJxkJ_JC55OiAiEA28h1E70wGgwdyUdz0XIgPrLqmo28qYDKFSMQMBD3eQ0%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_news_in.png" tvg-id="", Sun News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297511/ei/h-2FZa6lCKyd_9EP6IqEkAM/ip/74.249.14.176/id/2ywxK3HC4iA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzNP2xR9dVDp8ZCAx_YcOLwIq7xNkRDB8YZdBg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANPv0aPxZ0YvwKalDpWiTd55bfjQqzGS2BPc9udTwUU3AiAGHwY7dZfHiJXux1YCw6vS6yga4wHT-bVFFW1EaKEXWg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jaya_in_plus.png" tvg-id="", Jaya Plus
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297511/ei/h-2FZeDEM6CJ_9EPna6UiAw/ip/74.249.14.176/id/EIsNjI8SBQc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f589PVmqKKE_60bF1X_Jj9uikTbdP3TguoycRA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMa1yPw4Gro83t5y-jMPvyL5QHIVB9I9JzPhC75pYhIjAiA_pT5HnIt3as0G5F0kt7C5S1MSctD1zLi3XZtvTar4RA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/captain_news_in.png" tvg-id="", CAPTAIN NEWS
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", Sathiyam News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297514/ei/iu2FZZTcBP-Xy_sP74-l-As/ip/74.249.14.176/id/Yu3PIdPHqj4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7TbBh8O4xScpcNLovF-t4cNxUIKY2pe7pn6NQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaDgyi_b67_HtiVUMuzMOzZZbeU2O0Q--xQ2Tu3lCWIQCIQD1JShcM6OAxQ5NC51eZBUGZ6D1rMPbrYuwUR6JmltWiw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", Malaimurasu News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", SVBC TTD Tamil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297517/ei/je2FZeSLCqyd_9EP6IqEkAM/ip/74.249.14.176/id/p-hqZWGKfV0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0Sx8EDs3x3ajK6fZBLhtwZF4dEV_PxVuMsxxQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK04o7GQRq9E97jwLlFt7eNILRWABl9ivbmCxnBOWfnZAiEA1QuIDbkBZaxQ1B4OKnoOXTz_lPp1TL9fx54mKtQW4iE%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="" tvg-id="", SVBC TTD Tamil
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Educational" tvg-logo="" tvg-id="", edureka
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297526/ei/lu2FZd_iGry9_9EPipKXkA4/ip/74.249.14.176/id/71iAfvnAbUs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fzeHFBL8_PDrDj_BIPAbxbi6QcOvrlnKiJ8tYg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTHmvj8703lYbHrfIBHLv34Hdzdp9oDNvf6ryGxQQyN8CIQDp9w2jv0OOH5oReo62Tv_LNKb4JTwF6hVtvCYqvWHTGQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Educational" tvg-logo="" tvg-id="", GitHub
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -162,40 +162,40 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", English Speeches
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297529/ei/me2FZa7OIKGs_9EPw_us2AQ/ip/74.249.14.176/id/Qeg-4kS9Hbo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzT9e5tDwKNn7lwKd1d7yIhm8iLIrNXoEKo4Lg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK-Uz5DlCl1s7mmZ-nVhaHIBIv92TOUqRdqvqYzhTB0VAiEA54AakwFiWvMHU44i3fbYglDTbDySaLUJYKn_-LuCAZg%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NHK WORLD-JAPAN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297530/ei/mu2FZdrwA7a8_9EPhdScwAY/ip/74.249.14.176/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7dMq8jeyTcU7xVNOojwbdXAKxeSIChwB8FukQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIedGo6VKe_VzM-orlCjfAHzVRThAjPml0f7i9g0Oh0bAiBhTBUR5eQbfmxyMEQMK6c2pIKHUxkzKK2ji4NQaXAUGg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", United Nations
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297530/ei/mu2FZdLaJMSpkAT5sInICg/ip/74.249.14.176/id/wfAa1GiNdgM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6DhCeZ__5f0JuPbpyYWfvppqW38TqxOnNgO6w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANM55TECwxkKY-zGJoKoRTD0X9ZjJjr4CozzP4fCI2tPAiBCBhMxoFqwKBkOz8Mw9n78WvGR8nMext2jAz8S_M7U5A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CGTN Europe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297531/ei/m-2FZYbaCoOI_9EPgvSY-AY/ip/74.249.14.176/id/9bt0x7OAX34.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9uE-Ayk86gj8A951RPfnVrUEBcOl0RmFNrDtw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXxbMcsEcZVOwkEGVLPI0juRq-j9FXeo2sTDlnLZTjSgCIETlqiSMDMSTESO9LrsOLe5OkRvhbul4auRznvvpDbhB/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297531/ei/m-2FZdiwKfy5_9EPyamY6Ak/ip/74.249.14.176/id/pqabxBKzZ6M.149/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f39WYvHNFsElAJrtdeUNrrzVqh_lfd6cd8J3wA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK642n8qWzSc3tXk_OScwffTrseQJTGjzYcR0GikB1y0AiAlYSvKOyiieB_RRl54mFqJndZmt3RRpzVS3GFTa06z5Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297532/ei/nO2FZZnsCueP_9EPk-qUqAQ/ip/74.249.14.176/id/pqabxBKzZ6M.149/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6DIfXzUzVNNl5jTSXOQSOG39xJH5r8WHZLEJQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPLIj-VUpNuoLCIjdCi5YNs7tlTuF36l8Rvx1zyi4KesCIBPnNoifWCAS3PxhIkeLAb0dH_gJHijZfaCRyvzNCD0F/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297532/ei/nO2FZbujLcK0y_sPtK6p8AE/ip/74.249.14.176/id/IEpG3Xku1bk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f-u5orflsrcVDN5QVmSRNa3o1SD21svOYVrWUA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfkdDsKxcYjQ0O00le7WUUW8LmwWBwLsT7qGWkHAdF1kCIQDtNlD6sdfjxZ2uObmF2AgEjdEfh3Qy5QuW1I_dDCLcHQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297533/ei/ne2FZdaxFY6O_9EPiNWX-A0/ip/74.249.14.176/id/IEpG3Xku1bk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f1FDkTkZ4IJhTAdHCYAPPgg_Z4hhBZ5xXkGa2g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGxpF9IJsydKxX_k063Zla4OxShj1nOPNVFTM3Wsw3lwCIGwKE1_5AMjUVfTM2kRf_IfaVOOF6uN3nQqHSvluuWb8/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GB News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297533/ei/ne2FZaW7NsbDy_sPxreB2AE/ip/74.249.14.176/id/WgVwylBkEn8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzv4OYSqXCEW1FtkaRHIxgTBWMxEjcrDo8cMAA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgENyctFLrGj0fCTmZ4e68cbc1Lq_i0dmQ6ZuojPCGi1YCIQCPHuqMCJKRctGPlRQvrBr4mhFNcDB1xF68JbUnn_4kKw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297534/ei/nu2FZen6IJWM_9EPm6yjoAY/ip/74.249.14.176/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw4yf5qGetzWePyrMjFdUHPfqRma8dFYaI7gEQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKsX42CGKxHeyj1Cojd4yzOhQwqy_FfQBKUUrPpcMx5NAiEAy6j0qX2XO4fdG0HpHPR1euM-E8RnULKAM7qLV25Y8g8%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297535/ei/n-2FZbvxC6-P_9EP4omK8AQ/ip/74.249.14.176/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxSYkJvg_igv_D8Nq5nlPPoXobkpeVQtcEeDlg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMvMeE_DppyZ1go_YVKBp_WJGICgcCoRgzFtmwm0CxA3AiEAuHqE9g7FsvgVO6F862RgmTOEyZdNewoiI7DKiCvHVHg%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", TRT World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297535/ei/n-2FZdrlLqWP_9EP77G_iAs/ip/74.249.14.176/id/5VF4aor94gw.85/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5Dw7d03b4GU7r2ZQL7OyVW53uOx5xcp_90hbA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMrq1CPkvuhbcarSGE4vCu-zhSei_PnjAvAEarJr9heICIQDhrJRbmQtQ7Tw2j1pZZj03ybXS-2hNfxEoaqxHZNRi1A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Bloomberg Quicktake
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -207,55 +207,55 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Bloomberg Quicktake Now
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297537/ei/oe2FZbX2KMuCy_sPub6tiAY/ip/74.249.14.176/id/DxmDPrfinXY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7k47FgEuA0Dj5U3eeBWRFeglU4tFzq6lWjN4g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKhZz5SRSDorSeqR_RGDchWXVjbvibvAcIQRMQhCzv_FAiEA0js8MYgipC4BLFE1aNUjfKsbkKdb0pY-rNsyH_Rmmbs%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297538/ei/ou2FZebdHYmN_9EP26eEkAc/ip/74.249.14.176/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-IuPRRPnMFuWn8m5J0_3WWcAONrhhP0aQbfqg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKfkQ3bHRxo5gau_1x52qffNWCpR1qhaqtR-XogiW0zUCIAbaZ58n8g8-dWjnvpZwMKmF2rMBKOIGBmlx25ypf4x5/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", France24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297539/ei/o-2FZYbXAsuYy_sPnI-j4AE/ip/74.249.14.176/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9hmh1fYcJQfVDofEYibyL671uMfZbk2wbBlHw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXaEWmWClprJwpiy2O5eujLanavfaJ7CAGmz3I3QWGgQCIFB-QG96j9HaJeiJiyzkAALnW_iM4qyKbw43BQDEsgSY/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News US
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297540/ei/o-2FZbTjPIyq_9EPj8mn8AY/ip/74.249.14.176/id/vpNaoe49wlk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxdbHi3VwzLNG2p_CSMlWO-taExbMkZSJR9ObA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSmXxCHutadQpI36DNMRwRhk0FnhR3z9lsv554CJQqyACIQDbrP6ROYhNIUHEOtjzI6a--7o0UEDwtFYvPdbpIdof6g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News US
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297540/ei/pO2FZeO-HpqN_9EPueCc6AY/ip/74.249.14.176/id/vpNaoe49wlk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7nAd2EQchiMZ3l1JWsjrhqylmqIFpd77zSPbg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAItKn9FiFQ4_sBSb0E2vyt7LSPA2I-ScO8gpA-dx3abWAiEAu84Yd6_nDW0e_1VriLtK0z1UMV3d2VioSww5mI3teNA%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abc-australia-au.png" tvg-id="", ABC News Australia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297541/ei/pe2FZeaaAYS4_9EP2NCj4Aw/ip/74.249.14.176/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fwRxjZK7J3Vk0J8YJiqlvqeiKfe1R35f1fG2XA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZI6AWOKzVKwho6xfhSBO_ai4Ig5UWaZ8BNnpg5rf3OMCIFVEZeUH6ZE1yCQQ-GE_1YkXSp9TENlSXsKthPAl--ZO/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News12 New York
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297541/ei/pe2FZeXWH8nCy_sP9Z2I6AU/ip/74.249.14.176/id/wZNdCVQKcoA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwp3sjoOyImHBjE-Md-_HQddymUdZc5MHWwf5A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSdf6llOvjETCZvl7qeA-JyQqCkBbcz6BAk8CClUUcI8CIGcO2Vvhcx3OupFG5koLrrffN4TtYhEg1Zskw2cfal97/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wion_in.png" tvg-id="", WION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297542/ei/pu2FZdaJCbG2_9EPlf2_0AQ/ip/74.249.14.176/id/bjyCkeUgRW8.1~45367092/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwnkX5aGYk3Na-GhXL3QmABP-fkT4p1AZe3w7Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJd_RozYjxj7aYnp43vx3Wr2ihwRv9FduUK09i_PFyQ_AiEA11NIYXlWDi0wC5WQT4fT85kDPHC5fqfbTu0rosSNwPE%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euro News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297542/ei/pu2FZePDKpqR_9EP7IeZyAQ/ip/74.249.14.176/id/pykpO5kQJ98.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f4pDif_kurHfWXr8e-whyGWJDPvFDKqRCNHjPw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKF9jZulyCd0IXIsLUaAMJqkDleStDzX94G0ZJ9rw2SyAiEAwgIAyE5ff_PeF7ZAJn86w0EWUNjqzZ4un8jZaTXFVPw%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euro News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297543/ei/p-2FZZq1Dp-Cy_sPzJaYwAU/ip/74.249.14.176/id/pykpO5kQJ98.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f2_OI8nBDe8DODgdIPcoqExvR1EgezGDOAoVqA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ2KQtF_Cacwamf7sqv-CdhIGIlAanfLFlSXgQLkyh5MAiAe8fbYy55aTQYOHNyLLREPYUhSNhl1zX4VH2OOqCY44w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Africa News English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297543/ei/p-2FZeSONOGcy_sPyJiK0AQ/ip/74.249.14.176/id/NQjabLGdP5g.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-_gNRzgX_y5_2AqUVcjS7FmP6C8qPIvWq0Vrg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMeQFbZaEjnOc5rai39Yq_VFhupIwVcu1hgfEjkjPJV2AiAy1LIo4sSGuNb83FoQ738VlvMYyq8PmTF3mlfQoULu0g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NTV Uganda
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297544/ei/qO2FZdTmI-WDy_sPxI-E8AE/ip/74.249.14.176/id/5SM31vU9y-I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2at_tEiL3WWbo5vTXuy3Vz2UzFnbUHNxtKYDw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDxmTVj7fLRoTSNA_NudqnXbIS4i0z0-G_wtu3rsuxUkCIFXlMhvuJS7dkLP05gHFZJNvYmBmCgmKM4B1onmFnCKK/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Telesur English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297545/ei/qe2FZYa0EM-H_9EP2tCD-AY/ip/74.249.14.176/id/VqKyIBuLIvo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-RNMg5cVSk1-JS8s0zn96NI-x9UewHAx-m7xA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALr1u20Xo8fPboHi3TUywldBpPzILic7ioYYz0_M-PF7AiEAosUSr2Ck7ovVCvXcmQWdOloG9NPpJuZXQRmduaww6tc%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Live NOW from FOX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297545/ei/qe2FZZe7Lp2I_9EPu96ruAM/ip/74.249.14.176/id/ONYSx9TN6wE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_VGeHQ3PrtyfW-EagdEo3wMdlq5ldtev_JouA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL3to01G3kL8PFu6qENp3768xaM7S2HLj6vbQMI62lcGAiB38BDnLpm5QSUzf-Iy67-1eFjc_rTvU20j38ddkn3-cw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Channels TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297546/ei/qu2FZaifF5GO_9EPx-uN4AQ/ip/74.249.14.176/id/ENHYOYm-kUE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2J0ZQXBsY3zsDHITm6fRaekDDNU6bUJP38MNg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMeVPqU4_pQ8ITihIYgtCwdAOdUBmdcQVpwaUYReE5upAiEAmajs7GyObQY4wbnOYPFtzFhOG4Q9pFurHjGq95Kp2iU%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_news_18_in.png" tvg-id="", CNN News18
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297547/ei/q-2FZYDgB96F_9EPyJK48AQ/ip/74.249.14.176/id/EIe3OzWc-uY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_vAicCjc37AMXHtp5hDLMFXdPpRHTRgTJBPsw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge3ADtO99udU_4axDr3xNKi_PPLiZZnwyFW7Cxy3XlQgCIHAIm1ilNWLK8Ohh0n13JUdAbOUap8_sOdpopEw_jk6-/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", English TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297547/ei/q-2FZd-nKsSc_9EPmN23gAU/ip/74.249.14.176/id/kP3o2FXa8y0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0zWRt-SRPzNYQnd0GgVeRZuLMXcOKoU8reVpQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfMzK-BnLjoitWL-H-5XNW-zv29mGd4GQUaKOcknBxj0CIGeH8bVpYPyivVo2FMoZhcJCZ6Q0gg_C-V__7dO8lG19/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Cric Heroes Livestream 1 TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -264,13 +264,13 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Chill Music Lab
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297549/ei/re2FZd_XMZeVy_sP2ayQ4As/ip/74.249.14.176/id/vEI1ojFxpgg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f52VTYjgAnwKcNqrrGwkvZmbjt8KJ--wu0I9rA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAdKP3u5OpJVrSaBKsn0TWBAiLp6wv0xsoC27ITGwRb0CICzj3RHcLMl6OxazlQuhH2JqIQPE7ijWwuLwINCRs_at/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Explore Oceans
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297550/ei/ru2FZeaiGYe9_9EP6uKgmAw/ip/74.249.14.176/id/wF_ytZyrW3w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1glCgwqvcs-biFOoaLvkueA9CsaqxTKpI59VA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL1llkukoDNOwuBdUjBWBW0NMGfaHv_q23Rui2eLjc9WAiBm-jLG-9GEtKWBNi25EwUSzoSrlqO6w79k9dmNpsnWHA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Explore Oceans
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297551/ei/ru2FZafROMzi4QSCtpbABQ/ip/74.249.14.176/id/wF_ytZyrW3w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9sWLxtJ46OQaDuntTrBoR9Sb57CNrVObV63bA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMbdzDIEuggka6BBhE9AY9_Ko0JQO9-k-tyrZilivuzSAiEArG7SwQIZKQMRJ1-ebm2Qd1VoXz8MSJHK9d7bYwx7lbs%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" tvg-id="", CVR English
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -279,25 +279,25 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ndtv_24x7.png" tvg-id="", NDTV 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297552/ei/sO2FZZrwBr-f_9EP-YeviAQ/ip/74.249.14.176/id/zrwvl9E6OOk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwheIc2HPtYQF7Rz9xAo4OJ0Ug843On7rBY6JQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOd7FJeZpU5vZAiMnSz_VYFCHqONf4_xA6SuJr7o_WY3AiEAkRtSCJxV77vAjHnm1_uqEKZ_9B1J8QkDmWYu5rxd0XE%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/india_today_in_tv.png" tvg-id="", India Today
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297552/ei/sO2FZYX5J4TP4QTz5bXoBw/ip/74.249.14.176/id/NTxVu0FMczc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzPaThn7svvlVZSOa5LeFJLIT_MrhyjrGCe_kg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIzWKvBSP5d8kyxc6WMKaFaLHc4AeaRcFgtC4747M9d6AiBumdyYBOlDoFEXb9M_6phpJUj6gtBImzecfrsUaEQhRQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png" tvg-id="", Republic TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297553/ei/se2FZf3dD8CB_9EPhvO8gA0/ip/74.249.14.176/id/YxiwIIjVMCY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7P_pP-SeC4DkvhiAS9wvPK1CIE-zb-grDQprQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYAIi3W6NP_qG3O30Ke1y7sc1pGsuXE9DERPFpRRs8GUCIQDymeQGjBKbNsKFHHBm5EjdtAsDTjG2BrxOJxlMOMeY7A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", earth TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297553/ei/se2FZbC1LeeFy_sPsKyg6AU/ip/74.249.14.176/id/buAV1t5-23w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwHjACP2IqvylqO4FVdxkHkXEqa827ugfx9MTg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCc8Ha3x_nc3UhWTvIeC5TwtMA4AeRmkTXqsGNSj6LaICIQCX1z1fKI4ki65Js8Hm6kZukqbWDh_86sPIoWMySDiCwA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", ABC7 News SWFL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297554/ei/su2FZY3ZF8DWzLUP1tK6oA4/ip/74.249.14.176/id/eXZ4-qp16nI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwaMvyO7DP9nliMJoYSqAGaxRrYPgzwgbLEjVg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTC_fhszBjeO8nMhjEUX0nc_2rg26QEjOBZS6DvJP2wgCICEbp5Nmt_RlagyM21iAYnxbY_HgHT_uIZtOUlYskyHo/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", ARCADIA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297554/ei/su2FZcKZN-2W_9EPm-2G8AY/ip/74.249.14.176/id/qy7FN8HZbgQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3rkQxnjoxBqiihAyS-nY1d48AEpO5s_mZXMCQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALwTfh6p5Bg6CvCtoIQgn73INBnewEJdtd9kj3Rf57uMAiAb0Y1cN3TbJmvY60IHnywAIxMCuKd0RcZsIp4lC4KVEA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Arirang TV World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297555/ei/s-2FZZ6sF_up_9EP3oikiAQ/ip/74.249.14.176/id/CJVBX7KI5nU.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4a1Oxc8OF2PSNrEwtWiQs99LMQgOM5oTGvIxw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgL3Ip2LVKVfDjdAMt03LQayb-Toiy-ChhaZfQUi6M3e0CIQDqYUmJ-hjgtWO8xBa8TMaZ4xfFxtgSnXlPQ9c2tULJXQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Arirang TV UN
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -306,13 +306,13 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", CBS News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297556/ei/tO2FZcW5KYaH_9EPz_S0mA0/ip/74.249.14.176/id/WNXI7X99zuM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f12iKDT0O-rJ1lYubBWEwrg8BtZ49i-8mAxfEQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALMxFt_3U4O-fccxYi3ejsql-780KCOWoemCATtDdz7kAiEAlNYBsBG6MN46MudhLPKQj1pCUULveUiBXq4SL5fV7W8%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", CNBC Television
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", CNBC Africa Business News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297557/ei/te2FZd-cKa-I_9EPoKGuoAM/ip/74.249.14.176/id/0r9YeApBSNM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0R191hC9iBm6Mlaf_haq7Sy4TbZWUGC77Kj-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdfy-2kKvykqiCyWn_w_8bxZ__Py1SXtGzs4jYvVAwzYCIEjHTFmEs8y7Z_bKDn5MWJ3aUKTgv7qK5KwxcP74Aix1/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", FOX BUSINESS
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -324,22 +324,22 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NASA TV Media
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297559/ei/t-2FZYKdJdu8_9EP2bm2gAk/ip/74.249.14.176/id/jPTD2gnZFUw.149/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxTF29vLE-dmN5CBZZ1ap-8Hbv_6ETLXaqEYuA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVvw9JWP2Fz1JBpTSnVjqfv3bJN8oKfiYkvQ9rRC3C5cCIEsx97x8hdU_SOhPpCe_C9zTzcWsadEFkdWw42sMeut4/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NBC NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297560/ei/uO2FZbCKCYSI_9EPnZ-a0A8/ip/74.249.14.176/id/NcREkWvk-24.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7nk5yZUv6Lp_REDeKrZOTZzUXVkFbG9eV9PlA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMryu4dba1tjH59bTeDYsBWtQNfr2-vyINbvuTBYxphgAiAA7n9A5clijjh8aaTnldsWstRN7ZmwcBB79AYDyXmLWQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297560/ei/uO2FZaDeJ7qk0_wPs7qdwAM/ip/74.249.14.176/id/NcREkWvk-24.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwzDv-XKxFTOvjSirsyaD9SAUH-lIPDlik7Fwg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOopDMMbmA6Yoj_tgb5mXGTF-zuwUROQ3Xzl5TAolKIKAiEA8Z7GdjrpfcuygAWx4vWvc-OlPAQe1fLYAjp5HZFpAyc%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NBC2 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297561/ei/ue2FZcnfFKyH_9EPrdSwyAw/ip/74.249.14.176/id/IMNK1Mfq8FA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0vklY6IrUaydHulAzhRq5Hpnt3TrmgmVmR9MQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP8TLgToyvfMDn8pmtU9dG_zk95-Q1z_z1IlFteheP65AiA2qlmyQvyMvG5o8sNGoN4BNf_rowC5M7n0LVLx2wESuQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NBC4 New York
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NEWS9
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297562/ei/uu2FZcX7EYzs4QTvmLHoBw/ip/74.249.14.176/id/tFAw8jFEXMI.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxdrdZs1rPyFywdNjl5tBG_8LS8mx5i06LYN4w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAObC5xvGWS_o6evhTLRZlu1B3diq80VsAKxjpnpdMz99AiEAwecyRhNCC-2rPsHWMuN6Y_-Gd0AKP1z69nHU2Puyzhg%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NEWSX
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -351,25 +351,25 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", TVC News Nigeria
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297564/ei/vO2FZY7aNvW5y_sPzdCd4As/ip/74.249.14.176/id/Dr9rWwWcJi0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0eft0iM2R8tiM3GnW_s1JUBA192hUQiQ6vaow/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPK8Y5G5LlB5SeQpynwopRTZ70eh03LiUePIqIuHzckYAiEA0VtIy4dMyJd1p7EnrGrpZYwKgz2NQwQlUc4T7753Mbs%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", VATICAN NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297565/ei/ve2FZcSBINa5y_sPkNK16AU/ip/74.249.14.176/id/Jvkl59nFOqo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5mR0iOxY2TqoUxb4KhMYPXCB1P0RtSAypsolw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEPr6_tJL29LjnBcabwrW-Y5JLDOPSaIQIMOD6y2hWecCIQCpE7sLFWkZGlKOlpqdJcG-AtnXFqRjQFJtCz6j4ncBwQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Yahoo Finance
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297566/ei/vu2FZbjtCNO8y_sP1JqXmAI/ip/74.249.14.176/id/jRFnF2e2MlY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/UWF9f323RkeNZEsUt4HGhQfG17cqz3EVNLDmedB7lg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNzvRZfugtLL-XKrc_SvWkfInYpObxWZ0LNhBCm1nwrECIFFUroA6QtNpnwEtRLIFhf6EHM61rKKG6LIMqq7qJp1j/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", TODAY
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", DD INDIA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297568/ei/wO2FZZ-IC5Ks_9EP9rSoqAQ/ip/74.249.14.176/id/c0HOSjlniKs.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-52zv6cUj98L6jmHhQ-VIZjfm-I4smgdJZfwQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOOv2LGAQ7Tt5-E4E0zyMvHmWpf3PqinI-Iz1Lwbgx0UCIQC7Quw8FIOf6UX5XBKwVFX2UkiZhwcOQ7qo1vjcpvQT8g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", BUSINESS TODAY
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Bharat24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297569/ei/we2FZfeRGdqR_9EPjKqu2Ao/ip/74.249.14.176/id/RR_gC3p_n1I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyZuBOEKBBY2-goX_4ULYkWMSlpGdmFRH4xJgQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPl3ITRNjedo3q2W_kmuoMU7gVPSrgVnR0i5pdgRAJ1bAiEA0iIwCnJt-vxVemmiTpMZIBt3U7C_RxbM8kiEIi6sqGM%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sadhguru
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -384,7 +384,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png" tvg-id="", NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297571/ei/w-2FZZuvJoeP_9EPjqC5wAQ/ip/74.249.14.176/id/e3ieirxM9nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8mGTfkjMfmyI7xzUTmUw4lLVKHa_3l-lUflYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOJ3jTQy9RmpLh0TGXRhEp1Ot7zipOJrwn8rJQ40bQqhAiBSCsLlKggiyhNfj6oztFNe4VZ2witgOXXmmYTmqbSLtg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Shemaroo Comedy
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -396,28 +396,28 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", India TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297574/ei/xe2FZZrvPJKQ_9EPka23kAQ/ip/74.249.14.176/id/w7arhDrZXqU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy4xguuQ3y6Z_Cw1C803rcBYHNfoiqC_2N1MDQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIWHM2hCZMyGe7okvsyxz0Npbw5c4-O1XMgddxGgbhc6AiBjlTyOw1kSo4m040P5oZj2xLYvBghrAAs-Lvv90qaAmQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Times Now Navbharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297574/ei/xu2FZaLyJfGR_9EPoP2ygAc/ip/74.249.14.176/id/X4KEQOq7_0E.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzeXR4xvIBBNEVSys60rBdWmCg95udOugZb4XA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPgWZ4hJVU20_aAIUOG-dp-GpZdtFfTvvML2UJz8ehtsAiBSLB1EXEgEW6Qv4pLU6iYJjPR1plsjdhXS8zsO8heV4w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ET Now
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ET Now Swadesh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297575/ei/x-2FZY2sKdCR_9EPk9S6mAM/ip/74.249.14.176/id/lXHQaU93Mu4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwfl1bJvDnH8cAn3AphmO5CEzabSio-2kWhC8A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFe7RNreyBVK285w4xBqM6oQbtIf7xEH7IAgmZCB1j1ECIQCXTehwdg-FiUKRliGADgWH4DSnsv9HougUZ8kaatLedw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", INC TV Congress
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", INBCN News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297576/ei/yO2FZcfWKf28_9EPmbq9kAk/ip/74.249.14.176/id/mWjQ_3mviM8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0bairDnlpgDrUahMD39elcons6jsVD79jstFA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZGwsc-diKBQGQyC6GC4QNpQhr9MmD0lQD8JTtNKX_TYCIFzK8f9mllgD7DazevHG-ZtSqpbW2r-I5J23MsPdwxYG/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", A1TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297577/ei/ye2FZdv8CdCWy_sPlPCNmAg/ip/74.249.14.176/id/hNSHh0J_uSI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5Rym6yPnvxn1_VbT6G1NtGPQeo7J9GcKtiiDQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOFoiBbRVZJ0Ir7Nra43xTSvNz7Cbh3EScTFDmUALLVvAiAIqDvcMqu5rqs6SrDKJglkFrc8d6whro-MQV13JXyh2Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sagar TV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297577/ei/ye2FZbixKdWe_9EP8ceT4AI/ip/74.249.14.176/id/z8FuPzW6XP4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw9lEluerh2fmS7GdZU01YzZRcFpU0XRc9r9VA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHHMmZAWMK8sJW2Xicc4lbLkCvwwczJqiffXVqBJPM7wCIQCdxaB815YPmm-avcuf_EYEy_8y6raDTlOLIqTCDx3yEw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Metro City Samachar
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -426,64 +426,64 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-bharatvarsh-in.png" tvg-id="", TV9 Bharatvarsh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297579/ei/y-2FZdDNDISQ_9EPmJWosAg/ip/74.249.14.176/id/j4TWTLYu1gk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyVdSx8dVdfdFwGlPxaILPdQLWh_XfJ2rrGTug/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf801nF1gUHktGT6vXIoYaPfsUXPdVCylK2SMY08LB0wCIQDb03eKOKsMziogYfvDdRDEQuEqWj85Ut_rzIAqjXVcaQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic-bharat-in.png" tvg-id="", Republic Bharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297579/ei/y-2FZcfuJraqy_sPnpOW6AU/ip/74.249.14.176/id/7kg0lYmqeeo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3QCJvpz938V-0vOVBUfcHKYnc5TFQVHaIPBjw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN6DqXoPL8ZLm3UV9bsN5Bp9nDvhu_m6jtMsbMPlO5aGAiAETU48oZtnoOgIZh6Xs4xSeySr0cvHs9bOmjjVOTHuhA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png" tvg-id="", Aajtak
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297580/ei/zO2FZdnxCbS4_9EP1KiriAY/ip/74.249.14.176/id/QdUBmUccTHo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5NktNV1uMGjPyOxOsDsfwMZ2nwQpUuirWEwsg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOoIWFYhH_8vU3ME7zuatyjTQi8qtKaA79AR7uIiLDT8AiEA0G8orQPPwjhUA8VqSz8ON7XYOLC9KjGPLZU0zjx5iwU%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png" tvg-id="", Aajtak
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297580/ei/zO2FZc-EMouZ_9EP6M-bgAc/ip/74.249.14.176/id/QdUBmUccTHo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2xE0RbxU-WTS9xnDnXsd3XGwDmehhP1sab2Qg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK5Cge8oOK_UVLZL_5CwXVCiaYBd_TC9y0fdPNUz5p-TAiB5NGXPQQKkMmZ2LCREvvJhKl0e9hNr2YpF6e9no7Harg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abp-news-in.png" tvg-id="", ABP NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297581/ei/ze2FZb2mEuyXj-8P1Iyw6Aw/ip/74.249.14.176/id/FTQEJmqbYXk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-lXC7i0R9tvFk29lxXFNeW1W8gqq6VOietERA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD-NqnbbjFT5hNJtXO4zeT2q5TJYJ25YsLjNBjhOLAHACIQDi_ACO1n4DBrGt_f02tgsUwsfHIETd-U7OdLk7tHGiEA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abp-ganga-in.png" tvg-id="", ABP Ganga
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297581/ei/ze2FZZvnMuyVy_sPjOORyAo/ip/74.249.14.176/id/iMvG7GbqOu4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7yjPpHuTkmHfFudZSYXSBFSnmS4krZmidfiuQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKvxAH2K82YQQE9TLpVlhrALr7HlOrUI1yQH8zUt6nDaAiBIgfa_0-B5SrMzABUxzaM2LbhsXNaelCfYKL2ipI1KSQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-news-in.png" tvg-id="", DD NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297582/ei/zu2FZabpNYS4_9EP2NCj4Aw/ip/74.249.14.176/id/zUlhju0XVyE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2vTDmTawlyPTRiQp8LafGpXGpQXPvGzgGW7LA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANPN1jvPI2F6zWTwxZQ9lX70LOrUOlPUilELPe7jd_ReAiBFdL0n4ak7WCc-476FtZ4SRNB0c6Su6kAY6Ov4NTb9gA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bharat_samachar_in.png" tvg-id="", Bharat Samachar
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/good-news-today-in.png" tvg-id="", Good News Today
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297584/ei/z-2FZeu_O6Sj_9EP4uWYsAg/ip/74.249.14.176/id/CaiAlIIEgs0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f59W6iEIC_b2aNHt0RQMyn6yVqoev_se8XgiHg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANU0mMfMkdIdit5_sMBQWsPD9zDEURoictD1VKKKfUKQAiEAj0xrD7-EqkEq7kAEijnxgtC7GAJ2tf38KSEXmUeaBMU%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Good News Today
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297584/ei/0O2FZcWlMaSF_9EPhp2w2AQ/ip/74.249.14.176/id/CaiAlIIEgs0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6lrVICPkP9YUS-Nd6RBra247-xjlP_0S-fJWg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQRJHj1J8elhD7MpYtgQqXf6MVz5GZNLTHYFzeQdv0pYCIQD0JYBvy36hCgprdlCU5kSh3KgNuDznOQr7lCvwGvDOyg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-hindustan-in.png" tvg-id="", Zee Hindustan
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-business-in.png" tvg-id="", Zee Business
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297586/ei/0e2FZebTN4qQ_9EPhdKE6AY/ip/74.249.14.176/id/eSSWsDx12MU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8PtgAhb9M4XhuNmEt0JM-siZTatb-QWXRde-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgX4p3oA46ayeC-gZR3epvTuOcGtPbE7PJ6u5U33xPFvACIGfa2FmxE1wgVUZb8NpjHKeobp-IjSCPvg32HTxwCWdC/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-news-in.png" tvg-id="", Zee News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297586/ei/0u2FZZ-aJeGh_9EPj4SOyAQ/ip/74.249.14.176/id/ywY_F9ytfhE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxfAALBTCJVaHT11oKiy05mUzpwWHvA74yDefQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL1lo_kzeeS4YhvvIJgSWvG3551aSTTLJZM30b-uHDKqAiBX1pmxWXes5QECc_pc_ggP7zFYSxzoLAyYI76SWsrANg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Zee News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297587/ei/0-2FZfvxEsG3_9EP_-ediAM/ip/74.249.14.176/id/ywY_F9ytfhE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzoLAF4zYCyXjtSk10ENu2fPSaau9xae2Qs9Wg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKZvc0V46D8h9hHSOfFPyyPe22jCw684PXiTrefwHIhACIQDgN-dVQSnneOPn3jCvjm3N_HB4VU8aWp1Mz_6mJ9pn6Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Zee Delhi-NCR Haryana
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_awaaz.png" tvg-id="", CNBC Awaaz
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297588/ei/1O2FZffyGMHCy_sPj8io6AE/ip/74.249.14.176/id/TD0A7fHAxKw.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3fQBsGa1fYxIw-bNCFKihlRyeW0UNkhFndlKQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMujs8ButidKE1i2RFDxKyQTesqKxWbxefF7F6DM06aTAiAyfMAlLU0iT3GcK8K7a71DzNH6uM3OME5QR9v1zDyLjA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news-24-in.png" tvg-id="", News24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297589/ei/1e2FZcr1B5Way_sPpsW_2As/ip/74.249.14.176/id/efJ3WQZyX-0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6AESmEOE577sBqEWKzJ-nps-oW_Jw5t6SnsCQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ8-wdmi25XUNnssT1Z5G_WftcPFWS1-PFCfSFnc6QvmAiEAmmeceAkS3kudgIyhD4NBeneXK-oZFnK8wzy7ylmOL4U%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news-nation-in.png" tvg-id="", News Nation
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png" tvg-id="", Rajastan Patrika
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297590/ei/1u2FZfnMCdmty_sPy6-o8Ac/ip/74.249.14.176/id/ADWZd3nVDXI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz7S5P1g4GaBzulv54b0GEMEelRPmFaTrM5-Ew/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgURVofjrtzNYyp8P7wQubz6Hi2IRVdN9y7pmpvagYsZ4CIQDuHMK99IsDIYP827DUM5OH-UjpyO2J1Y64QL6muQZ0aQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png" tvg-id="", Rajastan Patrika
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297590/ei/1u2FZYuUNayR_9EPtNigqAQ/ip/74.249.14.176/id/ADWZd3nVDXI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5W6j8PdL0kpN_S_QebO9tref7QKwHfTHezylw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWZq-d92K25egS-lqOq5xRznNwJ4BwqtMEBI4jd8qcrECIQDHwCLccJ6ERgAgTNPFYSJVI1MPM7z9tkCiQda_U_YwKg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", PATRIKA MPCG
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -498,28 +498,28 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", NEWS ON AIR OFFICIAL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297594/ei/2u2FZfroCMmty_sPyYCJgAI/ip/74.249.14.176/id/FW9sGTw9Hw0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f41I_cFoWZWpDLklAkl7Zyhez9DSMUHxwgMu3g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXG87MIIKiuWkXJTnNHnvaeWlywstIgfjy5ju9DPpocUCIE713KsJkB0qJH3bQXV3Ub7b1Fl2JwgI-yVGGQTErPW6/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", AIR NEWS 24X7
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ANAADI TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297595/ei/2-2FZcfXA6-M_9EP66-SoAM/ip/74.249.14.176/id/a8W13WbilBk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1-o7-Gq23FiilfINFiZIn7OImqQcU4M7nZIeQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJI3F7RO4zD2y1FqxWVXX3J0oyzwNrVTir4xV3PlS5R5AiEA_0tmzC4nZHqf2cFOu0hq1YDY73Myf54Kkc7KNDPaqYQ%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", BBC News Hindi
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD BHARATI
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297596/ei/3O2FZeHzCIiP_9EPu_K_uAQ/ip/74.249.14.176/id/P6x2034JxnE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx_XNBHP3yVaNaIcFQFCALo1TqeuDd-GD6EplQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgT03X_ALarvoZmUlktaYz67G67cakaLkIbzvypFXouSMCIQD9Ub9QcqnrRvPD8Z-eQem8OIOLDS0jQjXOUgl8ErliEg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD JAMMU
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD KASHIR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297597/ei/3e2FZfP7BoSI_9EPnZ-a0A8/ip/74.249.14.176/id/EPZnG3fQixs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5F46rwgHY8-RnCbRMlqb-_htmtbdedsTSDyFA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFjSFAw9dFQ0vmp3Cz79mm7VS9uDntwn5PWCOystmPzcCIQCRrsuomF9N-x-kSNnmc1tmbUZO1oI1dCBleQe_O11law%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD KISAN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297597/ei/3e2FZfidNsG3y_sPnaCR6AU/ip/74.249.14.176/id/9iYgfdZb5Iw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxDH0xwPOx0P2CV6OkwywK51-oycdedl4v-zJw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMti2j08mjeFbJkU3q5ZwPuPZAxTVNhPwiJWf5d9t3QECIQD1nXwsRiOsgYlc2g1YLS1nr-Uunv4Up1JElXWJ4YeHZg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD NATIONAL
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -534,7 +534,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Hare Krsna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297603/ei/4-2FZYiXD8Kd_9EPpfevyAY/ip/74.249.14.176/id/mOQifDX0wrA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7ziHxT9p1enWt8V8M2yrGjPPWftFI4dmS9BiA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPWe7IB-59PG-GB-tCIvGutmIvyjnBxYZLWH06gENXHNAiAj37YKfFH0EyZXT6sTAxMYXB52cQG1iMlQGpQdSEdE6A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", INDIA AHEAD
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -549,7 +549,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", KHABRAIN ABHITAK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297606/ei/5u2FZdrhCfyS_9EPm7y52A8/ip/74.249.14.176/id/l_j-rNTaWII.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0zx4q8a5xOQsom1kyn8sLWYX3kPD3Uu7ZdlOQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO1QwVBx0A0W0lprm9_ioGO49c90J5v01I9JT3bQFOMgAiA7f3r_DNfRnHOe5jKu8qx9f3ZNMWBaa7nnG2Qr5-qmYQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sansad TV Loksabha
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -573,49 +573,49 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Kashmir
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297613/ei/7O2FZcmKOcW4_9EPv5Gf8AY/ip/74.249.14.176/id/zWEaEGMNOv4.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0EQLYjSxmMDKwqSBlEx3CLxmTLE6-0DvbxZDw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPfp2Ubne29ntRN2FN7fTVWGqZ0azea3c0YP6luusbG4CIQD5zEkNGgf50-t7rdZhmOrjqzb7dziwHmxO9ZvNu92yjw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Himachal
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 UP Uttarakhand
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297615/ei/7-2FZfeIBtyO_9EP3O6wmAI/ip/74.249.14.176/id/l9sVK2GSvpE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3J_09gMlSqtEuknUNiKjOBmWFqdy4_WajDrZg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgayhsG3khGzCARw1oeNBs09IX-L3Ib8Vfb8ABfkFQYj8CIEYSracMbEyvfgb3CY2kszuoqBF3r7HQIErszz7wVfzj/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 UP Uttarakhand
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297615/ei/7-2FZdCvKZiXy_sPk6OV6Ac/ip/74.249.14.176/id/l9sVK2GSvpE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f93u4yZMzw5v2C8627Dc2nEY_F9z_bW5L2dUiA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALuzW2162GNR2bdHxExpcpkSWQgGhm4xlaZOue14THjjAiEAlMIkt4KDZ78IyWD0PVnH1PPQkj4Q43XO2U80fg_cIQ8%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Bihar Jharkhand
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297616/ei/8O2FZYjlDb3Cy_sP8qmhgAw/ip/74.249.14.176/id/bnnWMRSyfCc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2M6jOfkBJgUHGd25YK6RdzotWKbYA6fYsFs8g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZX7Lozof18Og0OG41WNo7Non-uZXy57F-JFwkmZIU_ICIQCX4d_NVx7eCt2KXzwZI36Eggrc8EGRzTs4aDylYZw2Yw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Bihar Jharkhand
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297617/ei/8O2FZaSMPKa3y_sP7ICfuAQ/ip/74.249.14.176/id/bnnWMRSyfCc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwF-s9u3TedrYSZ_ZYHL9ZrWwQTSt1KXsauWlQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM6nvb7V7bhRrvD9-3kyq-LqDhOi8LkzQaz3iMHJNz_4AiEAmnIi70WidrQU1fEBWEgH98M13RBzxsZ3ad2R40-VnR4%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 MP Chhattisgarh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297617/ei/8e2FZYr9IoeE_9EP7vaPyAM/ip/74.249.14.176/id/wAvV93_HD68.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0JweALeD1oQgLkTOZcyBxNl-Musa5D8eh6iHw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJvKTNbl55ZYq4B5ldH4fKmGr_oYRf6zGJVRrekEz7dKAiEA5wDllPhxWDrmdn91rL0RP_s7yC2aba_QNa7MLU0DpiI%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 MP Chhattisgarh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297618/ei/8u2FZf75Boydy_sP3O25oAw/ip/74.249.14.176/id/wAvV93_HD68.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4vvpv9LuyU9EY8sa966p_J78ViRK8wfPKfDNQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL60tKgmOQenhscCEUGp1bidnth5wDF-xXuOYQHIAcSiAiB43wjEo6UvHaxMgkpBDI4YHTIO0850JMqwG2galafRSA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Hindi
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297619/ei/8-2FZfitEs-V_9EPkrSEkA0/ip/74.249.14.176/id/f-xXvu288ro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxrcmso6eERHBVXQ6gxuO5X4ptBQwK_W7HIaUw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgUvxS8VmVRJVIGDokdr5sB7QuJHH4k2YD0Gk3XFGJ_QQCIQCR1k4sh7vb0t2560BgLipiAlxbm03CyWcyT5TldCEXUA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297620/ei/8-2FZaeoOcuFy_sP35G8sAQ/ip/74.249.14.176/id/f-xXvu288ro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzEE6BqFxs9ssjdF7gILJuVft69aNKDNQxmxLA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJsiHSFcQqEttHGTQ-oOGeSjsvg3ioOUgKR-D8hUGL0-AiB4Cpu4RY6YQM8AxcTkT7qDFn3pTqIZIDtaGhBeL8rDnQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Punjab/Haryana/Himachal
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297620/ei/9O2FZcWVJuq5y_sPv9-o4As/ip/74.249.14.176/id/N3VSXAL6ywM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7AbiEy2gf8YJghlnegUN8GCFNs1CQhzGrsruw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIEaFjMqg-PsVv2btaPpDkooQtpWXGDlKYDfXpzoTSk3AiEAvfBBm0MvHgAwPHjQi2D7iXCtJJGU5uCe5QntGoCsQ-M%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Punjab/Haryana/Himachal
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297621/ei/9e2FZanrEI-U_9EPjZmLiA0/ip/74.249.14.176/id/N3VSXAL6ywM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7oUBvh9j5ED6SgVtU27XJ3KMTZwJqu_H2E5og/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWajdQQGdJwy-OPcZ6l0br0M8ggtBgA_xGOvID2Aq9WgCIQDmZ7QiZHsTcVJF3-8E61XYP9w2YS-oJDTx01rxl7rafQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Rajasthan
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297622/ei/9e2FZd6TO5jaj-8PlPu5oAc/ip/74.249.14.176/id/fqBdg8wIRVU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1Cze4NNXoYsN3zaJjVu_Tc3SENwhcREtmprmw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMj6CyMPA8zDeQ5RKRj91lbc68d51z1qJorG2bv_UWHsCIHHgQIIZ_1ce-xdYvXRB3G4hvPfeT2tcrYxL95tBjOrl/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Rajasthan
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297622/ei/9u2FZZW1L_-Ey_sP4smE8As/ip/74.249.14.176/id/fqBdg8wIRVU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2kNcdh8CGcJ-EX_6KiFxJCoWZIlWAmwb2DAUg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOdNt0dn5vxAldjRTJs1G5NtCH0oqLmjek7i2VKFU4KgAiBA6W_5r4dYYdaPtJrMokbAk9qxWcWr6xKdMm9PMW_lsg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News31 Uttarakhand
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -630,25 +630,25 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sansad TV HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297625/ei/-e2FZfelD-m5y_sP9KGh8AU/ip/74.249.14.176/id/HhXKXLVlncY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4guS0QdYHCcv5zlntRl616PhbiLRdtU-AGmbQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPJ6CvEfWWOjT9U_iJLG_9QVpk_Ayq2eYDf-GKp_mTLmAiARlzkp4S-2O8xNcejmxxpchziNkD7K0cLgBZHD_KvtYA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sansad TV HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297625/ei/-e2FZcPLMqmWy_sP_dqYyAo/ip/74.249.14.176/id/HhXKXLVlncY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3yVwTEAMun1EjNQbB5Qbp2PUkg3s4EXgQVMuw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgceYaNxZoOzH6375RGH8QDmco9JiORgmRmgiMg0sJZ7gCIB1HDuJRiLctcmEGQmJrUcVFTrBXwWpKsolGorBtEgCw/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", STATE LIVE
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", India First News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297627/ei/--2FZaO4FZyh_9EP8uCMgA0/ip/74.249.14.176/id/daHGp8XUnhc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2cUK11awoYd8UWTlXoE9SqP8uZ-1czZUTy41g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANt71KxwuI-cvS-ty5e5viR74KaB7pxObC2qt_YJmuN1AiBWsnnhA0N0tHflnaHXC6E_yod5UUXK4PWDsKPYUMIsFw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Swadesh News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Swaraj Express SMBC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297628/ei/_O2FZdj3EtSZy_sPzf-D2AE/ip/74.249.14.176/id/pOybYTpqHr4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3Ds5dtBtOAMLZSPHnS1AuBCy-8mKafj5dUVNQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPofUje8LjWDycNYJ6DTRVdm6d7gQTjJZLbLrjLRvEOhAiAjFLQYcWBsKrkEyi9JgDcdS95_A9s-RfGNvhz4aTwUNA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Swamiji TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297628/ei/_O2FZYPzNvugzLUP066t0Aw/ip/74.249.14.176/id/dcsFC3hOMRk.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3EVpmGE1TLdqo5VpV_aVWJKdC3LYfswm-EaVg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgX6gasTLH0Ke_UHyuRwdKQoWva0bFj-K4BIfZyt-t21MCIH_AnurQPD0jIE3WWrl6fRVWs2_dUXhkCMFX4SGMMTpR/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-sports-in.png" tvg-id="", Prasar Bharati Sports
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -666,22 +666,22 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Peace of Mind TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297632/ei/AO6FZeu2ENLDy_sPtOe6kAI/ip/74.249.14.176/id/crICyetIcmc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4Bb4TC2tg4xg7VnIuJHcJIntldDQD3c8v8aRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKOLfzhcl3TBqvFVrAT7gvkgxNgSvEXEWfvNh0OhF9sSAiAHRI9oTbCKeR5sr2eV6qyEx4cAcrFA7m-n3LVmRK5aVQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Om Shanti Channel
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297633/ei/AO6FZYiKOPaN_9EPyMOP6AQ/ip/74.249.14.176/id/OtLv17yL-YQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1wEkLFH-OIw9Zr6mu2VoHODfpsI8UsB2W_eaw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMVnnfbCxHhAU3q-0asJ8pRFJU2kmsG81LrBmZeZB7w4CIQDUTqBb-Y5iFZVYsykRyvnjzPMg1DJYqCUDhsPkxcHdFQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Awakening TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297633/ei/Ae6FZfP6IMfP8wSC4br4Bg/ip/74.249.14.176/id/Y1oTRxEqpYo.18/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_vV2fVuOtSibHl5fRH8WvoMUYalNyZCYYZ3jQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgU_h-uk5B3VIOpa_5gVRs-m7XXMLLX6EgJArGvdLs6AgCIEU3ZvpK8QmCGrqlfJhoFyQJza_iVNeFNzLUcY8gnytY/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News State
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297634/ei/Au6FZcDsAt6b0_wP0I6isAI/ip/74.249.14.176/id/pXmUYum4RFw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9hqQXqYXSuCD4aExpneoDOXxg_PlO2wJaMpGw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOT2FOjS8e7soJLBU3bACc9w19iwhbxKJ5QA6XMWhXJwCIQDpvQeQfgZUamolWnf8ezkxonJHoFuBZr174qcRDAKTQA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Aaryaa News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", AB STAR NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297635/ei/A-6FZbjGAcSXkASug4foBQ/ip/74.249.14.176/id/X6sT8xX4ssE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxdCson5k73nUbj05DFa8h5P8C9OtiShNt4lww/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANDm7a4B-XClhcXOhdiZ3jon_FG9ddIzFExvGOnIYprgAiBSP1aH9qwqxdXnyx9-qidQMEMHMIXY5UAeFUhEMBNDiQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ABHITAK NEWS
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -708,16 +708,16 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", ABN Digital Exclusives
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297640/ei/CO6FZbixGKqc_9EPs_-MyAQ/ip/74.249.14.176/id/uf5aOXorX1w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzAfq1PbXEQQxdJbgr5gLJXnnMpXyudqkF-yzA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPGbDu0jRDNIyVydcB4o3S3KBI1A_-AlGvWMl1OQMd8oAiAafy96IMgUJmelTgbOC-x3CQFc9ko82GkPPSTGnzsX9w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", News18 Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297641/ei/CO6FZeuBPZGky_sPj5iNEA/ip/74.249.14.176/id/fLzwKxOl-cc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-VC6K9eiPk3aosW6uH7_bwCED5e_wNJJLt-IQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN16qc4DZ_PC4ePJN9aW8lHGHRahtX1xJfiJwW1ENZZkCIQCySQEkQBqoOHFd1Mjd9P3cBbCd1SsqTZfObTM1wcFQ8Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", AIR News Hyderabad
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Swatantra TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297642/ei/Cu6FZbaqJfKJ_9EPhLyuiAI/ip/74.249.14.176/id/8PXzLG06ywo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3OcdWfodVAEt1X6rkefcfRqenlyHFoGoVfIfg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK-au06gBIYUipiNstwgg9nAlogcyeBIDdk6uqnORxcQAiEA5qz-ZX4ql6DSw0-KdEcDMwhV8AQB5cyNkN3OJ9c9kdw%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Geetha Arts
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -744,10 +744,10 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", ABP Desam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297647/ei/D-6FZbXyFOeP_9EPlaeb6Aw/ip/74.249.14.176/id/30zbqpIDzik.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4cVInRu4oYiuRgMCPwgPmt6bbqcx_fQHeuEGQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXTTe3j4OTN0MyTyhgv9yckiHtJIXYohIqhAJKwsWFnACIC_kv8psxE4925mK6l062zW3sV81YXw9--bvcfsm3I7G/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Zee Telugu News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297648/ei/EO6FZbr6Aa-Wy_sPt72NuAQ/ip/74.249.14.176/id/mjfRhNi4rZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7cvHopPUENC7xxrg9o6MFWM5x4mEOBLf5xQWQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPJPe3VvhrY9KJZcuWHWIOaJzFEXTXzD0xVJBUeSohDrAiBoCYjOM5o0MMyFnfoAtRXD1YZCX6X9T31IjIRaUvVPoA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", JET WORLD
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -786,7 +786,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", BIG TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297654/ei/Fu6FZaW1BOSZy_sP0a212AE/ip/74.249.14.176/id/ihGhsGUlp5I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6E5Jpt2HqZkGSQlpxF7PbAtAIG9OPS9iL6kmA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOhhdDVtoYBkp7dREvttYblyxOhNIty2aSoC059Du6KvAiAbeUOB3P-GJGlUVzFmcOy-rpGMbSbfHhHlGtikOlJdLA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", BHAARAT TODAY
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -816,7 +816,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", MANA TV AP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297660/ei/HO6FZYCcGMe5_9EPosS9yAs/ip/74.249.14.176/id/I3rpXRS4GWk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9wCG0MXK6KeTjYlRhxbmjItkR2fDe7RLoPNUA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPYTsAwfL2641KMIk-EwQplWV6XqtCzwkAi5XM0JlzoVAiAHkye3QnlAZZzrCIKB52uBvxb3vIO4_WAz9zLoGQv0Jw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", MANGO MUSIC
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -837,13 +837,13 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", RTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297663/ei/H-6FZcH8HYKF_9EPr9KxwAI/ip/74.249.14.176/id/q71Wl15GpM8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3lGsP1bBxL4tDwf4LOiUlZ9-s3OceMzO1LDWw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALdaEHc4N8H6KzLCKSTzLDL3UrdeRF7S1Wc5gLZpX80bAiABNWm7E_s-HsJ-uBlfK6aa9hdMeS6IIz9HOIw9qqqO0A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Suman TV News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", News18 Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297664/ei/IO6FZf7BJMS8_9EPqdqS-AY/ip/74.249.14.176/id/fLzwKxOl-cc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3aMpIdu3JJSXZ1gDQa2OKku3od_3hkttRz4ug/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKy7WYxfYVI1sE2gmw_PPNEGPqS2VyMXCc7_IxIbW6ywCIQC-oBr6wMunTgKqOgrc--JaMudgGd46v-oLqZT-yD8M6w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", News Now
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -876,7 +876,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", YOYO TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297670/ei/Ju6FZYHZI9C6kASUh6zgBQ/ip/74.249.14.176/id/cYpY83qMb5k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0PjAEDgz5xXbc65tBYjJkrV6eiMvuBKsg36RA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIToVl8nGaTZNF2tJjBoKgzs-5T5GvEvGv0hUlPBTubsCIQDUWBpV0nwteSAgDaT41E42NnaTCXUNjZXTawvuY4JxmA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", YOYO TV News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -888,10 +888,10 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", SumanTV News 24x7 LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297672/ei/KO6FZdHxH_eu_9EPjqGlsAw/ip/74.249.14.176/id/lf-s2grlAio.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7CQnfE7HtlVh6CR9R8G7YgvMlXr0XtHw9t3QA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIP7HPx0-RrPsJIzjJv31H0C9CG6M4ixMSrmCaP_c1JEAiA-D-xihYtpmsZKUT829wheCG59MeDkXR06KXc_AiBnPg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", SumanTV News 24x7 LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297673/ei/Ke6FZZ-iArS4_9EP1KiriAY/ip/74.249.14.176/id/lf-s2grlAio.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f395Bk_0lG-LtchJMvvCOUmeHhE5SKULUHx-Jw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIQQhiUybbi5A0gWKPstfbWHldrF9U8WlrLaHW_Edva3AiEAo3Ces_D87yWtTGgmtMrjBOzMHsd5GYakI1pqAPMScR4%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Volga Video
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -927,10 +927,10 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Master key TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297679/ei/L-6FZb-HBeeFy_sPsKyg6AU/ip/74.249.14.176/id/CRWcquebqQk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fylkp7h03Maky9q_gQzJgR2D_xJ-yv21pAnlVA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO_ahasPfivcPCfXSJdHVByBx1SlIDvRcIwnBlm9Yg6AAiEA9xLwaa19oV3s_0Io9NOWnUpei0q2lHFzgMuUWyH3FIg%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" tvg-id="", TV9 Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297679/ei/L-6FZaunLcqEy_sPr_ey6As/ip/74.249.14.176/id/-q8eZ5B8sVo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5u-lHs_Y2ViKiJ3J9Cw9EaHxA4jlzF-9kNzHA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ8Sfi65R90g-IMCKWZquICncH5VW6TtLIEQVXLXd3FQAiBQ3RlGyiRqN2P3eiBJ8nZ__bsaqaZa0VST5k80tEKeSQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" tvg-id="", TV9 Telugu Digital
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -939,28 +939,28 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_telugu_in.png" tvg-id="", NTV Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297681/ei/Me6FZdnzDL-f_9EP-YeviAQ/ip/74.249.14.176/id/J4OD8tTcaw4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1sjeJnrYW59G9dxj4GlLasXJk0jHif6j-4FWw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfs8ne8Y5CqqlqUwfL5YCM4zoPQx_65uE1cKzVpik73ACIQC1ET_DnbxmOymTRtT363vC3heP_G7d-0MUyL24gYcNtQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_telugu_in.png" tvg-id="", NTV Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297681/ei/Me6FZcSdKdSS_9EP65KN0AM/ip/74.249.14.176/id/J4OD8tTcaw4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4M6ETVZU63brRGF_31fxm8P8r0rh_tEialEzA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANh31KBNEtsqr9y4Ufeu4cltTXKlL4axIe3t7iFtUnFpAiEAhHxfr5fzMiIJ4dTeJnEsQLzsax4FjVqJqCog4E0hT0s%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" tvg-id="", TV5 Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297682/ei/Mu6FZZXHCeek_9EPnZeWiAc/ip/74.249.14.176/id/4cT8aDQucHQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7tkKID30mol7Uqn3CUr_GP3J_GlstKd-pDjuQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALTBir9bCWaJRyBNXxf14p7TwOmGw8KZAOrT3CyCz__nAiBnv68VRs6yEYdNepzv0I2at9fe9tN0j_ttL7Oe26PSzg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg/revision/latest?cb=20171213115114" tvg-id="", Sakshi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297682/ei/Mu6FZdj5KqSS_9EPuc6L4AM/ip/74.249.14.176/id/FedwgX4FOvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8O7ixJZir30NKUIPnaEnSSNOXL9UjBZ610jlQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgS5dW6bI7EDL3H58wXkQkQSofyTuCICRueyMMcCvV2V0CIDV22_ZxW0hnR1145Ug81IaFreNNdOa7oq7adfQQBNbA/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abn_in.png" tvg-id="", ABN Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297683/ei/M-6FZdHjEsOk_9EP8duHmAI/ip/74.249.14.176/id/HlFHsXhgTpM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1MDSD0-ekuMTQBTNF0PWaXOcCD1Dh4nNrbYUA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOY6xFpw9vdGQanoL6PqRcP1to-aG7THQVz8WtkUNla-AiEAisooGl5iI5wxr9ygO7QKpk7jAnupiZ0jhNKjkY09Q3A%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" tvg-id="", V6 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297683/ei/M-6FZbnJNLO5_9EPmNKm4Ag/ip/74.249.14.176/id/_xtceKvlVYQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8l5yhDW_lklJqP0n2_LM_-HjhpuCVUwsEWNKA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNz4N77cHuizMaufZtAuSVSwmUjMOqdwrealsssHHN3sCIQCr-aF72ZyrY8Mn8wqdM1xbBu9ORWORLv67WPEWlAOl9w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png" tvg-id="", T News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png" tvg-id="", T News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297684/ei/NO6FZbWNOKu7_9EPqrKToAw/ip/74.249.14.176/id/msnakfGHabg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7NNr2EM80hmGninQor13IamTEig0lwa8DUSqA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHvWb3RhpXsHCGmW2VkS00508scLl-gkEe7ZZsttzRi8CIQDW31VvK28UWz83LBpjok7HxaHT4nCXpTRcmx7LqPwG2g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6_tv_in.png" tvg-id="", 6TV LIVE
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -969,22 +969,22 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6_tv_in.png" tvg-id="", 6TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297686/ei/Nu6FZeCJCM-jj-8PkL-8kAM/ip/74.249.14.176/id/Z45FG8sfEQY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f12TZRkrX1FBdYSO-slh9uHOUnFMsAKWTcN7fQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgARjYofq8j2WjjFCouqFGlFLRVmje2PSm1MFNP7lhisICIBvma-HdpfooUpNDKF8dtC5Frrdz-P21uYrtG6R-uCWz/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" tvg-id="", 10TV Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297686/ei/Nu6FZZ_uKqKS_9EPzeOe4AY/ip/74.249.14.176/id/cqORaO8vcHE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5JAlISKeSUpUdx3Xxj7GXk5EgDU4iqKXWUgzw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYYHww6QNBFIlxJK2lyysd5KYrikSfVkG7Wq1XWq-XGwCIEJBDH83eSlGIoKyqiRM9GzA4mciuRn9xpQx-V4AvY3R/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" tvg-id="", HMTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297687/ei/N-6FZc_9E9yE_9EPpKSC0AQ/ip/74.249.14.176/id/qrxyAPKh57c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-NC-f5VKUvlPoKw2HLJKqKgjPQN7vDFsZvnvA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMCiLHu29SEw_Lpg56gVl-Pgiyt9G52hd81QwuWl5UAEAiEA4__c9t_FcyyA7UlmjDqttiUeBX6M-ZXnZqjKGWlrFbQ%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_3_telangana.png" tvg-id="", ETV Telangana
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297687/ei/N-6FZeSTM7ag0_wPjZuD4Ak/ip/74.249.14.176/id/tWsm6wkScBo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwklY1Fvh85Yi-whzsGXBjkoYEqt_BV-QEVhxA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWtyS0C2BOViT_bb-u7PILUW5gJ99KiUap9hR9nzlBh0CIQDWXZmM_Hra-ijj8i5eSNZ-PGCeHjHwF3czdkYWiwaqbQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_2_andhra_pradesh_in.png" tvg-id="", ETV Andhra Pradesh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297688/ei/OO6FZeyGIIG4_9EPvZGViAo/ip/74.249.14.176/id/GI-8sFxRoyw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6gcQga7gmyDuJ1ovjOAO0Zj5FzXOAC_Nl8kgw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOTF1EpI3c8zxxTGI8XYCduC4QIgIhu_hdHY3dV3z1qtAiEA_ahDtzp4g1E0EmKUQ8c_yZ-yjoL7aJUpl-QTQGdbfOs%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_2_andhra_pradesh_in.png" tvg-id="", ETV Andhra Pradesh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297689/ei/Oe6FZc7PBtKkkATowrjgAQ/ip/74.249.14.176/id/GI-8sFxRoyw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-j8ZVRFwF-z7E8fZ2qUIa7czbhibQrPir1dUQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVvRDMIm-4iY2TpqYnCThriwNI6XsVW6MBl_EP-qyzsYCIQDf97Rq0DMSUtVkmnvuaj0F7oNtcREztEKgf6pXp0amIQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/i_news_in.png" tvg-id="", i News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -993,10 +993,10 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png" tvg-id="", 99 TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297690/ei/Ou6FZYDwKZ2j_9EPvpKzkAI/ip/74.249.14.176/id/HuGTtEAON1Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5UASDTh5bjnuWL3NVat2Y1knO2b5wDZOpndmw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALyAEDbpc02kr-zGsdNMjLMxn8TY_qV5Cr1ma_3v3tDrAiAmcVm6xJPO6ndz57ATd4a8fuZ2-lhEMJJrtBrGeZg3ig%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://mahaanews.com/wp-content/uploads/2018/12/logo-1.jpg" tvg-id="", Mahaa News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297691/ei/O-6FZbGjDf6h_9EP2oCBmAI/ip/74.249.14.176/id/WptfmWAayzg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7Gl4FeCZjFc3Hr_P-CSnG0-f-jLA8EBLo1_rw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgf4Kr4OPOYmMODEKz47pTjezlf3L6EFnUJSb0IE06jLoCICwlRpTybuxeitFJX8vUcZwwFCyGZIoGuuKy992AVNWh/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjCV79paU0oVv_CvDxfKo_eVEi8p6p2_mW3wewgCg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Raj News Telugu
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1008,7 +1008,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", 4 Sight News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297692/ei/PO6FZYuAL8LQ8wSV_7u4CA/ip/74.249.14.176/id/6GWV6b26xUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2rVG-bFlzwOuwo21JKTF1_SE5YktDXyDUqpXw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDeIBO83DVpefs7Cz7lS2uzIgA05PQjzOBdeu3u33yjACIQDVrk2FDqJhQ69aO7BDLFYl5cmkt8Nx8WpL2CZZ745yjw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" tvg-id="", CVR News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1026,7 +1026,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" tvg-id="", Prime9 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297696/ei/QO6FZa_mD4G8_9EPo_uzgAc/ip/74.249.14.176/id/KOdAu932vZA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7Ck8eNrdEbQg_EX-vufCzB7OMeskcpLFQQmuA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAImG7mRQ-4BoeYwjVqzlMHKRyT6rcZtGUpY1b8_Hl1b3AiEA6lxRoTuWU9npv0FwoAnVbL0kwwd-fdcDGkaHhapMGqU%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" tvg-id="", CVR Health
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1035,7 +1035,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Aditya Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297697/ei/Qe6FZf2uEMq2_9EP6IKQoAQ/ip/74.249.14.176/id/CNPdyttDuAY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f68nYrLrGh_ktvaq5t8dpa4Lrk3B-4y87xynzA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKfX41tp4nObnP6Vf37ybM737buvXDVjs1vIux-MAYt4CIQDXxhZEB4z2MVq6QfHvLR7HLEWug8Wf6jCxx60dIWyjDg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/studio-one-plus-in.png" tvg-id="", Studio One
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1044,16 +1044,16 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/svbc_in.png" tvg-id="", SVBC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297698/ei/Qu6FZdD0IdKay_sPjMWb4AU/ip/74.249.14.176/id/rp2a5Tok5No.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0IEaW5e1x34f7891sdB8R52d2ilEhLc9OkYLQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPorlOZw5_KoP3DJGku6je8750bisNYnjBJ8vc97EGr9AiEAxiZIDF2njEsJdjg7NnHAp6f0S1tC4yf5xTud8upIkeo%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" tvg-id="", Bhakthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297699/ei/Q-6FZbbgCoeP_9EPjqC5wAQ/ip/74.249.14.176/id/d0dB3kSCMmM.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwrsrpKj71dzhQy_dgVVh1eq3heUnHLzaPYmfg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDp4Phnb5PPmR9Av2L7Sl9YAb1Y0xG5s4Wv6BzF5C1CkCIAzmHc0kPYFmVpQqApiXlMLZq77Axh1pQd7SPW4y9jli/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Hindu Dharmam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297699/ei/Q-6FZeG0LaeB_9EPyJyJ2Ao/ip/74.249.14.176/id/oTdUu42N2n4.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwiLmnnMJ0r8uFCAouPPc5LQ2GYj_MjnNeEmrg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgef99ND3DU5xm38LwlQR7a2iDJfONXY_GIVbla0w24bkCIAkEMZbWEtAmCfc8_jF8CLS7EGYi5qGbxZeRiDCDh6ak/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Sai TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297700/ei/RO6FZYfVEsOc_9EP-qea4Ag/ip/74.249.14.176/id/0RpabiiTxN4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f50Ja1bvgKAOUVRw3APhRYu8FQMtTcIFHoeCsA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGrvyYLwjU2bCmkP39m2HhCTCgclU8GWGGA9JGf0pyK8CIDAJSOfETqZ5NejUnJ1eE-XBZe9299gb1IWVz6rgNrL6/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi One
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1080,7 +1080,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", PMC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297707/ei/S-6FZc7NEvKZ_9EPstW10Ak/ip/74.249.14.176/id/tVi02r9to6I.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fymPptwcjvSI6MpzO0aWJHNIKsoXjcSfmd9LRw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOXHh90--H79-mzqnDvvn6IhODD9tNtpO3hDNqNyqIXECIQDwrAtnsnjeib-5KvRtPRwwyfpXk5Ix5-lZ0uUwsMCQyA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", SYE Sports OTT
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1089,76 +1089,76 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Power Rangers Kids
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297709/ei/Te6FZan-FbW70_wP_-eSoA4/ip/74.249.14.176/id/TPc_qACAYks.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f17TYxPmxoPuG-aLbhx0258L69-HRmOwBh0ihw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTob-2QSBcFFyn94PPbsnreXT165g30m8mW0rr8cP8MkCIC54BAShnNKeDYw4DdpdArXkXw3Le-E_BYCmWVoov89r/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PBS KIDS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297709/ei/Te6FZcKxNeaJ_9EP_aKDmAQ/ip/74.249.14.176/id/o7znfQUHZvw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f7WPivuoVbhsQHtXWWW7Pdz68VpjRi4htb5r1g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK8eh1b1hZjpl8wmAOmbY9rytOVhabd2pbY00pH72FEwAiBQqiOpxHeG4vkHyNLZBMtluJZC4nWR4MpKpK9Xd49LmQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PAW Patrol Official & Friends
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297710/ei/Tu6FZdvPE7a9_9EPpJyzgAc/ip/74.249.14.176/id/hyqNZD_yiFk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8rkH6Pgtv9Mv8ssQ7SIsoenjjtERP-xWl-58w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswQwIfXQEa1xjtjvqEBf4d5hm4WrQCLQ4LakIXVg5IQBtLowIgE5hfWW7PKBr7z5D0gchxYtbgup69U-mc7CRxrKb488E%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oddbods & FRIENDS
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Videogyan Kids Shows-Children's Cartoon Animation
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297711/ei/T-6FZcCcCNOz_9EPlv-omAI/ip/74.249.14.176/id/ofOk-83WHaQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwZPfNGqj0vrv3emdx0Vz9Bgb6x7vDF0cSks-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcxZ-CHbS70T7AFcDoQSUBxH_WLYIj5c__Xuy0RefQvsCIGw8iOBgtKZMmQ_0Gf_h4Xqhb50RR0cy86EDLvoH1KAw/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Talking Tom
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297711/ei/T-6FZbDdJeyx_9EPqa2l0Ao/ip/74.249.14.176/id/PlG3doAnQL4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzZh9jmbUWKbqTO_8zMgD0F8gsj7r6BOHleL0Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgU4cXzplgexzbzKvESmeFDkot5gzc7g-tmCeNLjbsX5gCIGtR255WlOoQrZD-CvzXaZsSj11SienKovvpGU2SDMvl/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Kids TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Dave And Ava
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297712/ei/UO6FZd3iNoOI_9EPgvSY-AY/ip/74.249.14.176/id/SNyvJlkEdw8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4_RO8pD2a6AjwPTI8p9PtuLWBkI6RjLmQnS9Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbM-aY47J55q1mEjPD-LJDLw32H_F97_X6NxrR4dj_CgCIQDXt47EAsPJj0nrgJ0_sIDJfksRK76KTOJt52UViYuHAQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", POCOYO
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", ChuChu TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297713/ei/Ue6FZcLlNOSty_sPgLSHkAI/ip/74.249.14.176/id/BXfMt0ojOKY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6DaaiZIDOEnm5m1rPBlv4fGGR-3EZu5oSSIcA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPH1Mvq46DYIOKJ4Pm8Bre0Tjo6RN-zeln_kcMdG_XpHAiEAyu-CLUGXCLooFQHNxgJpoT13ulmgxPx4eYgXvlHFDdw%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PJ Masks
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297714/ei/Uu6FZZTkI7Kdy_sPmO-AyAo/ip/74.249.14.176/id/0y_qJQqWDdI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxYgBYirhydalLaJCnvf2kbvqBhbGp0CZk7EPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKJg1UnRtskXrBZubBzDyeAZsBdaDLSkB42FVhFi867ECIQCQEVh8AwYdBKpOhlgy5U7BnCrNny1R5Vc_jVB0PQXLIA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", My Little Pony
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297715/ei/U-6FZbTFBJHy8wSS3YH4Bw/ip/74.249.14.176/id/GFC9b332uGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9flKRT4ukiGeOjLGRDa5Yvj99AYVMWJRA-gEw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALbH6fZ9qPOQhieF4tQCVHW4_M8U_e-vP8FCvrSS3xLDAiEAthrekXGt-NU1Y_azrimfzp7ROAiicKz3gb5q4Axa5zA%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Cocomelon - Nursery Rhymes
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Ben and Hollys Little Kingdom
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297716/ei/VO6FZbmbDvbZj-8P976jkAM/ip/74.249.14.176/id/AwlNR27Qwas.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4M_8kBUGjBxE72CIlIf1L1emKxspKa02k9UFw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJG1L4QOoua3PxfLci88JGswERTGXtT0qf8w5-ctnfoXAiA_Jh1AjfqV8bm4LI76hMYDeoU-mOA37_1Ov1Nt5RY3Iw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Disney Junior
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297717/ei/Ve6FZZzjMcHCy_sPj8io6AE/ip/74.249.14.176/id/LyMZd7Kqc_M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f35yqObq2UtWTDj4oE3J-8O2Oxu-HLkj_Yj1jA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI7ryfUDWD4Hbq-xSsYnikchkSLYoaQvQ3FuDenwSIkoAiEA0PLSPWOMTwlK8kB2YNmhO_2y5uMeesOq_bj134NlydM%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oddbods
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297718/ei/Vu6FZcn1Fbe4y_sPwr6MkAI/ip/74.249.14.176/id/_ojEpIOrHB8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6xW9nn5wnaD7Nh6GGJ24uUjFPvCLRczTPjbyA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOYkBtSpSEwVY6yjQ2ycWllEDjIxUWQfdeeqx5UnGfqYAiEAysbrMO1jrDjOjJ3nd8RZl20L8KDoK309aC5ldWYZeqQ%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Mother Goose Club
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297719/ei/V-6FZYCODo7Ey_sP5ayn6AU/ip/74.249.14.176/id/hyk_guGzKfo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2u00pZB8B3nwgalYqOy6_vCxZqs7Nv0_QC57A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeTMYp3pNvm5WhTyIoZEuSl4GlVBWnx0GYDHI9wqlvIgCIHGcAV0DQlZ6tH5qA47I_0M9GuJUczCdGHRlrcAM_hx9/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Little Baby Bum Nursery Rhymes & Kids Songs
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297719/ei/V-6FZf3gLY-Wy_sPou2z4AU/ip/74.249.14.176/id/RxcvoTXdF8A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5qMqy_P3lsXyQ8GZFaZ_7bcwoGwz52gnCKegw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN0QyJihbglYi8v8Djbc7mOWCjB-PUKHPNwJo9_mZSW1AiEAoiQ09RwzYSkWbkZ2PT4pS52y7MGYnJQ0AQtxVkhauB4%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Gurbani Shabad Kirtan - Amritt Saagar
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297720/ei/WO6FZaa-FKjzzLUP-baNuA4/ip/74.249.14.176/id/wUK045Kx34A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8d_0aQDZOfZptX09nENz5kRj3iRrp33VzkdRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIga0zaQYp9rloKAZfwwdCA7RaAbEUAQm8CpRk2snvOieMCIAWsi38G0sUE75iSfht_FPsE2usS3Zp3--U2Lz4l0CiU/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", ISKCON Dallas - Sri Radha Kalachandji
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297721/ei/WO6FZfPaOtGO_9EPj4-EoAg/ip/74.249.14.176/id/KpeOELjh9mc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3Izu4Gtt4KlcVbfmUvWREzwIJrXj6hMlkh_rQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgG-HR8bDKkGarS7EmDy-k1p4Xmqhga9XGTrywgQkppPwCIAK8aOhQJPAFSI09KuEnWZbol2LHK82ttEWBaV73fXCE/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Sai Leelas
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Sikhism TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297721/ei/We6FZfOpMoy8y_sPx_Ky2As/ip/74.249.14.176/id/pB1JerYkuhs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxfYCHBejiPr4kib9s02EI3dVrwsXJ0Yau8AZw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDksPOC8cNEFMN1dbIqAzG3_dpV96sqntIpSvoosjsCUCIQDzvay1UKrgW6e80TLo6ddBR-O0pBwxB9kJm7luDNQGFA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Aalayam Selveer
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1170,46 +1170,46 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree KasthBhanjandev Hanumanji Mandir Salangpur
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297724/ei/XO6FZZaSA82Cy_sPzs2kwAU/ip/74.249.14.176/id/_Ak1EEpoiyk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzN0-VDl2HrV4dbVCWwsCG70FnlfmXknBlv3iQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANjyrhPtEi3URyAkHSTQOC5OAryg3XZHxu_y04iOor5TAiASNOe5Hic5TPerz_zWWxvd16PVQ4vZpCkDq_X_5MtZYg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297724/ei/XO6FZdrULfmt_9EPx5GjsAQ/ip/74.249.14.176/id/uQv-_VxHL2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fyUdAkvcr92aHAEX3J_XeB2UcNP6ZZGuDqVWHA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJKoBxTdwDlOkQe-a_eaK5WDRU0DDxii8jeHYStGqgicAiBIZdnjQ81BL7T07fDmhE9PzDuVDpvlJO3PKmne0XJAFg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Mahakaleshwar Mandir
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297725/ei/Xe6FZYG4D66G_9EP25SQuAM/ip/74.249.14.176/id/CHW602U2afo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8-Lr_CEufLWdKkrdvsNtPiT2Mgz0ksxcoGKig/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHnoPs09tk8Xc9LHdnVEHsBE5cs5q-oAkSnsr4jqChooCIQDhOBJmNarIpN8_ZMH6nNGspycazpR35qMqHUj431fIDg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Bhuj Mandir
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297725/ei/Xe6FZYqRL6OR_9EPx8ergA0/ip/74.249.14.176/id/dIEbnhKIFb0.26/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3TLGTQBEVrDT7opmI7uxKCPcc7UNqLEsoErnQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY8M18VcpxqHbVck-0pUqt1uJzEn4PRl7gmccS1nKkPYCIQCgZjPG6N51YBUNLDpXsiut-CMBVbuMbPhaCXL31iAq4w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Dwarkadhish Jagad Mandir Dwarka
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Sri Naga Sai Mandir
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297727/ei/X-6FZYKgK562_9EPvsSikAQ/ip/74.249.14.176/id/hbQUnHPwOyg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4sBzxDM5OKTB7dcwWlViDH9sbPBxr0NZkzdew/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfR85jC1Sw6OJ3QSbfgUBI8GReBupchErQgv5eXMfZDACIGokVV_KvrJ0jtDUIIlob7H8aKomEKk9DadhTUaPK0MJ/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297728/ei/YO6FZZu-DquN_9EP24GQ8AY/ip/74.249.14.176/id/hXyUpI7HeYQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fygVUowNgGUzT5Y9d8FqK7xZ5P0fYgY0HG_a2A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMMsfsDI7vtIP32dMwRK2ljRufAZsxCW6e4yGTpFj3W0AiEAzU2NaHkMCYru4Q07EhWS36CD0H0sxqLh8uXp9W4Roso%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297728/ei/YO6FZYnVMJOP_9EPhZi38Aw/ip/74.249.14.176/id/xhQqoiwKjt0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4FHLf6oPWJAHsR6X6CTySJageit4VCgmad2aQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVHo7QCePPA_54rOxpLhf3FB1eObZ7us4ako9EMnx0dcCIEd5pXzzuV9niyOr2a-xT1wmtvrRoNZ2A55yQhuSQdp6/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297729/ei/Ye6FZYvOFo-3_9EPk5yYuAM/ip/74.249.14.176/id/PXRUc5O4J84.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyo-WeJO0BNeplh2o10gBCS86IWZF9RDI8BR1Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN19vaUa0AHsqV3mdahFwFLFOkDb6xjS1niX9R9el8sCAiEAmSXXfckTdUi7_nt9Lx7pVhTArXv8oOCvL2oXNy3_9c0%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297730/ei/Yu6FZYUV0LrL-w-WlJbYAQ/ip/74.249.14.176/id/nAXniT90pPk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxNDmMWXHjaLx2Ppc4y9v-_NMb9kSe9rk6oSWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALRwQDi1wcWoIgN82z5XaZlP15Vz6d7ObTf05M6Ol4SKAiEA329QxBnNw-yIbus_EfVI5tZwB6Eidy80qm6em0rtm08%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297730/ei/Yu6FZbz3J52Ay_sP6IqGkAI/ip/74.249.14.176/id/vSnoxD5-4o8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwbNL-K5jxRx_0QXboXMaNP57I3TyT3tYdEnQA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMeRbadoOB-wPLTAXafhT7TCA2SlUrL2EAZqu02Z3oYbAiAUDwVfvsQ8oUSaHs7u1JC8rZyG7vUy7p38hO3qO_f7Uw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297731/ei/Y-6FZcWXD6-8_9EPm8ezyAo/ip/74.249.14.176/id/BoEyOfgYYpI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0ZKnEbdJFCgp_Dp0ZdxQxZW1_0Ps_thyh3gkQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTo00ybUb-bNJYyVuLO4TqV4kAeA6khMTQKYy4DWEJ_gCIEKvAvBwhYZNP5erCwYFM8PnAU7lJveldgmerVJWAEzj/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297731/ei/Y-6FZcm3NoLD8wTGq5voAg/ip/74.249.14.176/id/yhL1P_1USqE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f04TlCcRBus1HI_3ltyiLnVhssrQE3wVNECSGQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbc3-d8RGI1QtgsanuTMZcIVf_U2tJ8ugBRXHPa6ClAwCIAdNdekB0-MLYbtBtfD6kJ4mQyDr37SQXF5WMRIm2Cpp/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703297732/ei/ZO6FZaG8HNa8y_sP_a2WgAw/ip/74.249.14.176/id/t-DUaaGC4FI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9jocP42BN9SfX4336Gub07CUwQZfqGVBQ15Pw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIU2R3AO1H23ySl8jzYuYIK7YY-uT5WNfXAW8I38m6V7AiEAhmlr2SrVoD_rmcxQ7eu9468vUo5VkDMKx36hxuDGNqo%3D/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Maiboli TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
