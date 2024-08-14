@@ -10,8 +10,8 @@ https://www.youtube.com/user/Felizemediaplus/live
 Asianet News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png |
 https://www.youtube.com/user/asianetnews/live
 
-Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCG-vTyqxtqwqOXWoumEQc8g/live
+Reporter Live | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@reporterlive/live
 
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
@@ -676,6 +676,15 @@ https://www.youtube.com/channel/UCelGDRpGe_gRwT88ASp5eVQ/live
 ABHITAK NEWS | Hindi | |
 https://www.youtube.com/channel/UCQVgzFyRv2RImUisFG0DSYA/live
 
+Anand Audio Telugu | Telugu | |
+https://www.youtube.com/@AnandAudioTelugu/live
+
+Aadhan Telugu | Telugu | |
+https://www.youtube.com/@AadhanTelugu/live
+
+TV9 USA | Telugu | |
+https://www.youtube.com/TV9USA/live 
+
 ITTV Global Media | Telugu | |
 https://www.youtube.com/@ittvglobal/live
 
@@ -1036,6 +1045,9 @@ https://www.youtube.com/user/VanithaTvChannel/live
 SVBC | Telugu | https://www.lyngsat-logo.com/logo/tv/ss/svbc_in.png |
 https://www.youtube.com/user/svbcttd/live
 
+SVBC | Telugu | https://www.lyngsat-logo.com/logo/tv/ss/svbc_in.png |
+https://www.youtube.com/@svbcttdlivetv/live
+
 Bhakthi TV | Telugu | https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png |
 https://www.youtube.com/user/bhakthitvorg/live
 
@@ -1117,7 +1129,7 @@ https://www.youtube.com/c/mylittlepony/live
 Cocomelon - Nursery Rhymes | Kids | |
 https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ/live
 
-Ben and Holly’s Little Kingdom | Kids | |
+Ben and Hollyâ€™s Little Kingdom | Kids | |
 https://www.youtube.com/c/benandholly/live
 
 WB Kids | Kids | |
