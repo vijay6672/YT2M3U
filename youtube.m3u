@@ -354,7 +354,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", VATICAN NEWS
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724408318/ei/ng3IZvvWDYaUsfIPs7uL0Ag/ip/20.168.23.70/id/z5zjiFNne_c.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9gVkT424tCjaiOTDiwKTMA5fEKi5x7p_Cj7HgHTAjvU60534f1UssOHpUWg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgO1gsnSbyVt2uBXhhq92fA8GB6AvinRAnxHrwXTGOhlUCIQCaVAkM9cCQtKk8xJ0ehGF9Z-KLkxsXRWMCg0lVtT0zRA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Yahoo Finance
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
