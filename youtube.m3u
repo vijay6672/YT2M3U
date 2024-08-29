@@ -402,7 +402,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ET Now
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724962588/ei/vILQZpavDtCKsfIPy8DGqQU/ip/20.172.5.33/id/-v8nXKUoj5E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51191461/txs/51191460%2C51191461%2C51191462%2C51219771/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9i_VrHWDgCpuD0SxxUMl1IxgJFGxEojEFLtTObMm8zRQy-uJ977AhDo-SYw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBd45r8Wq1R92H_rOP6rFzlfrU5xybqLZGHq1TqXBxJkCIE2B2GBkqW2NG2arS9pvYX-kfKUD2G2Xa-YhOLRfD98_/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ET Now Swadesh
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -483,7 +483,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/patrika-rajasthan-in.png" tvg-id="", Rajastan Patrika
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724962621/ei/3YLQZumIAeKRsfIPg_7WQQ/ip/20.172.5.33/id/QEljIYpwXt8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51233685/txs/51233681%2C51233682%2C51233683%2C51233684%2C51233685/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9qoIcJOor9yVcGT1g-JPH0S0oq896HGJmUVexHUn_tZ2y-udth8-xkcCFak/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOFCLH0FyZANUhqelH_fy7xchMSF2Ojo_WnQJB9bOOhYAiEA6PWhOVwJPRZ3yorMztoSrD3vH4urF6mkZRgpGSIdYBA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", PATRIKA MPCG
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
