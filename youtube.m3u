@@ -444,7 +444,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-news-in.png" tvg-id="", DD NEWS
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725027609/ei/uYDRZu_zL_7BsfIPl87xiAk/ip/52.157.4.130/id/Cx2VjbDh2bw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9pKyNwQCB8FsX3vRq9ykK65QSRN_FAWVS8Ca01Z6w0N8ejM3pD9Db4w0XLI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMC_HCXdRovDVEDMM-1pL8GxCdl9V99MLQz0Z5nluycYAiEA2XiVax2HPQy4C7b2F1cP8cdX2v5IqpaTcD_Kn1Ix8bg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bharat_samachar_in.png" tvg-id="", Bharat Samachar
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
