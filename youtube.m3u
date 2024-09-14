@@ -690,7 +690,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Aadhan Telugu
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726316535/ei/livlZvmPOYC9kucPy8m2oAE/ip/40.76.181.124/id/uS5MBYMaBug.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51279999/txs/51279999%2C51280000%2C51280001%2C51280002/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9ljO7GT1JkKzXgjxJVXmtjhIi7rzPpStAhgbE0bD_j5Vjnt1CMdXjr7MpWU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANKVw_OX-8p0ro7o3uXec5MYGBw7LYKhvZXoQcRcuaWLAiEAx0KAjba4VsASia2hsNK-zGSGs2Rwn5j9jXXwt5Ro8C0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", TV9 USA
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
