@@ -450,7 +450,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/good-news-today-in.png" tvg-id="", Good News Today
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727101276/ei/-yTxZqHMPOSYsfIP_5mo-Q8/ip/138.91.70.181/id/CaiAlIIEgs0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51275527/txs/51275520%2C51275521%2C51275522%2C51275523%2C51275524%2C51275525%2C51275526%2C51275527%2C51275528/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxWbzSha9EnOWmiJhl6qovgRw9B6hnQR7HRUh7Q2D2MFuapqzP7Qowv1ALOk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299151/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ4vIl1j1obsoRdQIPvDF5io6y4Cw1sIPrnVOLP788VBAiB2ayowzGRi1VcIsvz-BBv-PKub_IYH0zRz1v3wKHFXfA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Good News Today
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
