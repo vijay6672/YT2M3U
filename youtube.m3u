@@ -1200,7 +1200,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727130150/ei/xpXxZs68F4q8kucP_cqC4Qo/ip/172.200.199.171/id/yMMIFFU819A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51279999/txs/51279999%2C51280000%2C51280001%2C51280002/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54Mbxa2U_3i3jEXYcf9DZ-0Wu9r7QWRR6HYXLCKGB6GmrQb3gWGi18TwOzDaq08/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299151/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgD1DQWRbxgy_OTruuLVJzb8CSLQKuv3dG5CN5i5ChFSkCIFWazcBEE7oUv2icCUaOa-taUXozKHzOHchaC5dhRvrq/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
