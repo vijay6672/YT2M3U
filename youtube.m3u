@@ -399,7 +399,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Times Now Navbharat
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728469183/ei/XwQGZ5_dJrX4sfIPv-rGuAM/ip/20.172.7.12/id/d79yfOMqw94.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303816/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxUcgMUlxPdh7fH3fHqvQZlO_oil6ad3rhEAujiBxgSgNdBHpXhPNchYQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAI2z0V3y7j22vFGvDwD9r8zHxIPYxl5fYdRz8fTwH6rZAiAeypHf4HoudZ0nHsNjG2i62tU5JS_102NlanmO5IHOjw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", ET Now
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
