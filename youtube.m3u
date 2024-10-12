@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728757569/ei/4WoKZ6LjMuSBkucP3KmM6QU/ip/20.55.126.40/id/RrLrcVcbzw0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxdeDpQrJLWMJOR8LisSJerJrG2HJJhDUcVJgJNxNcdYGGMBqkk2RjSGRMfM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFGR0uloX0VtqnZY82PUGQBfv8LOFBCpTH1U8bMbQ8PICIQCRfCPQ8nlRAGPl2YmXtu9DkwJ1Kq9_-qqrb1bSysIqRw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", News18 TamilNadu
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
