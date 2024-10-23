@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News18 Kerala
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729678673/ei/8XgYZ7XPEIyTsfIP_vu4uAg/ip/20.172.43.96/id/esb3ZBhW00A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxQ9D9b9UrVC6YzJTlLDeBx1eEDR_Idj8Sia6h3AXzV5fVlc7l0BCwsqB47Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPDJKieW8tC8T9_fhp8J8AcZ7w725v0U8XcV8fwO3rqoCIBc6EShdLTKwgT9P3JNEN76Vm_AR_GiVoK_20cSuTWwb/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jaihind_TV_Logo.jpg" tvg-id="", Jai Hind TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -825,7 +825,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", MANA TV AP
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729678932/ei/9HkYZ-DXM8jxsfIPsu3GKA/ip/20.172.43.96/id/EG84BUAgrZI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxZ2ZGcOXtAJ1zsIE8CcRJYYFBf8G1qU2Hf3LUA-AxqnVW2MK5v11JuCzc5w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326931/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMw4rE8nvTdqnWxyfIZE1Wqs3itwaaHPY-I9XTN6TFHeAiA-lTTwsFjSb8FtxG7k0DJ_0rrF7Gh65keSJYW50MXjjg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", MANGO MUSIC
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
