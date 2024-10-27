@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png" tvg-id="", Kalaignar TV News
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730088845/ei/LbseZ52CJOSsir4Pv9Q-/ip/172.183.131.77/id/a1FvzJPqkqU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAb6VpVDfysCdxw1iz0H5iTke19qkEq465YN1ttAHYYuw8tz-g_zE4n61nyQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDv6jc8UJhnyy2c0wk1eN2T8YFgMxdafvdkxh0iZ7vfQCIQCF5pRQZ-MWoyTMVyYeAmFCpkynAR30oryNBPeCDAubzg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_news_in.png" tvg-id="", Sun News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1209,7 +1209,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730089158/ei/ZrweZ7CuNe22ir4P85qi4As/ip/172.183.131.77/id/NkHGs9lNvJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241482/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAREC1Ku5qoJYwv7ZkdApaIMs8M4Ydr1c1mJDk_ByAUXnW6G5R1hplErv04I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326931/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALmU68_eFBuMUHj5Z30gV0Se9ac_JWKq6hYWbiShZHYXAiAmV3xYls_cBwPpNPz860qtZDgV7hoZMNkTqtNRvb2WTQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
