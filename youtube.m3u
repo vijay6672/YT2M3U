@@ -27,10 +27,10 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730537036/ei/7JElZ-2IJLOLkucPvd_MKQ/ip/172.200.199.242/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/qtApAcSflZZAQAwvxDOwj0VGWo6PvnMv3Op1vPonTsi2-CIZIcbC_QUdfQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331021/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYIw3tKLWPx251KhC3rc4SAvphGyb3RLqdA3MlokioScCIQCYl9T87eEPmo8cNIftRk9jiBfrSuWVFxqlToH_PYg_5g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Mediaone News
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730537037/ei/7ZElZ6vYC4OKkucPsNGoIQ/ip/172.200.199.242/id/-8d8-c0yvyU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324818/txs/51324815%2C51324816%2C51324817%2C51324818/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAYRlUPHPziZcCR8x62WFe_YMPt4vGbOvHP8Z_ZTuVlV_3dbYFaA5fw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331021/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZLTvinHwf_w26ptEQKVhcGmMKoVV8vOIVj4e-O7x2asCIAMUmxCccIyGM7FsO-Qe5ItbHTGvzfL_pFa3i4hAvo-k/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/manorama_news_central.png" tvg-id="", Manorama News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -630,7 +630,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sansad TV HD
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730537217/ei/oZIlZ8jVFpGAkucP3J_1oAo/ip/172.200.199.242/id/WNIHP2BzMig.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51326655/txs/51326650%2C51326651%2C51326652%2C51326653%2C51326654%2C51326655%2C51326656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAWJGn7jJz7w389OV1QPijECEE9InDpZu6kuRpP0Oby0uXvP1Z8mBVQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326337%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTKinCtXDg7YIG4uZvjzowNLhPjZgBEvqW7q-LRlMYYcCIGjKgT5u3CoDohSPOA23sqx0Zik7dL2LwBQcqVpRhznK/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sansad TV HD
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
