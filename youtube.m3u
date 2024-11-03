@@ -195,7 +195,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", TRT World
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730636517/ei/hRYnZ6CQBtS1ir4Pp4Se0AM/ip/20.88.15.123/id/Xa1nVvUc-Y0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324826/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApARFPdjgNWspHACK9uB_4XJR-OzGAo9wvV-UR9DTHBuJcLnylxOdZvIZfmWo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQMZHdp2xmahmL9bRxUkxunIhVlTVuItWgA9GnLDlNIECIQDtQHkswRXwoXQOvrrKAsMlRfLOuA0lp23eJ3ZkS6iI3g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Bloomberg Quicktake
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -1125,7 +1125,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", POCOYO
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730636767/ei/fxcnZ6_bA6TeybgPxN6_QQ/ip/20.88.15.123/id/gOw_a1pIz4A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324818/txs/51324815%2C51324816%2C51324817%2C51324818/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAYnaz9TYUkvarhIuLuhuX9s_O6RPyOGBZiE2SgLkiN2wNqT2XQRtWzH1bOA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331021%2C51331249/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALYfzpfLLWFpNRvfMII-KSn-MS8mW5BsfdVRArCXAU2CAiBqHAtMYdn5f7etLejtVcLekYop8DBGfEE64e59u1vxJQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", ChuChu TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
