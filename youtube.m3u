@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png" tvg-id="677", Puthiya Thalaimurai
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730623989/ei/leUmZ-SdJMy0kucPueGmwAQ/ip/20.102.46.177/id/RUzgphgBRzI.560/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAbKPXqMe4k_2II8P-R8_CA7ZYQiZtco-jGtPdB29HTdsX6GxRz6E_F069eY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331021/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMCNfh0HNCoIlo78cL9lU9wH4p7d2zdI6vEZitRHqNzrAiEArGHG4k-7IOkB82jYkh4bKv09XMcK6rfBJ45mNVnWzIA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
