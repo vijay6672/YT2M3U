@@ -330,7 +330,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NBC News
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731039293/ei/3TstZ-mfJ_iAkucP3Y_PUQ/ip/20.75.95.33/id/HykmHDG1EB4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAcCIJrVHb7kP97PmQb2tRUfTMNt_eEwoUaZHYZkaVu0RCL8EHXfhoAicMFI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALvKDK_0nyaO2YCmIks9SMl5otcyxYF0yzYEVpldX-09AiEAoy52YVC7eIVfoUO2lq0E7gYQBBUwdEfKIB4ey2XJwKE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", NBC2 News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
