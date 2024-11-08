@@ -948,7 +948,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_telugu_in.png" tvg-id="", NTV Telugu
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731104553/ei/yDouZ-ujO821kucPu4KMmAU/ip/40.79.247.239/id/_g8au--LSCM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51329644/txs/51329643%2C51329644%2C51329645/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAZKcYf7LE2GEuQcwIZT_lQn29EdIkceV0e-mg5od2IdUj5Q60uUh3dUe7Qo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOOpjbf1IQqmiqRiRTv2Hgq_ko806-2ger4ERD0ZuHmcAiEA_NMS_oFF7KDay3-ifKlXDHOjETGCt2f-1erdKJZXc5k%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_telugu_in.png" tvg-id="", NTV Telugu
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
