@@ -963,7 +963,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" tvg-id="", V6 News
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731228740/ei/5B8wZ73nGvS0kucPmPi4gQc/ip/40.67.141.248/id/618hBjm4Ew4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337703/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAZKTI6e9rcS9DbIVEn3dDNURXDVe5H4F07TsmAgsg0t5G2AuBD9jR-0R5-s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319289%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYkrIaQLJiM6RzyE3Ic4LY27RbnrQbPlMC8BO5gpD_nMCIQD-K3wKqnF7jdcEnNo1l0I59uLMoZsNC0xB9tafLYXrHg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png" tvg-id="", T News
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
