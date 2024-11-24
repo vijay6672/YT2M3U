@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Educational" tvg-logo="" tvg-id="", English Class101
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732479187/ei/czRDZ7D4MeK1ir4Pk8jL4A0/ip/172.183.82.148/id/rKn4EQ3-Ns0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAYmjLhpQuzlA4E4gI3-PJQcnS38OtFgEiw1MX9Nao2tCa5LwLBrymIl775A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMQLsXYS-HxyrzL6IcpZMmH9SQhI5GyTTFlWyQYg4pNNAiEA8RphImZY-28qdXkfKhg18MhoNwQIH369Z91X7sJfTwo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Educational" tvg-logo="" tvg-id="", Microsoft
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
