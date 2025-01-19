@@ -582,7 +582,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 UP Uttarakhand
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737281963/ei/S32MZ-jvM5uLvPEP48n_gAE/ip/20.25.193.32/id/SlrLW6jsJJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379624/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-N5pG1nvBcRmRx0HJroiaVmdvMvbxFVA5FIXU9bhTuwx8eKD5XjVZR38qMmf8BLT4YnxP4DfFPl/spc/9kzgDZHgQt0ZSVfmScoewsZgprPGRe7tPccGNdJ1VIzljfO_4diuY0c4WJNdDd8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKNY80LiuB5mZG8sN3RAg_HbNqyXv5zEbzsaDOP0DuXHAiEAtJRGRTqFed2yEGcjQUWMl6SCSsCs6fUWVLh-u2lJCEM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Bihar Jharkhand
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
