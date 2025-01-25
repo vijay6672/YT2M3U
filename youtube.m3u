@@ -651,7 +651,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-sports-in.png" tvg-id="", Prasar Bharati Sports
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737794421/ei/FU-UZ_3XG6-TsfIPl9KLsAc/ip/52.234.42.90/id/1XWibkx_7Jw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PL6hPZe5_iK9Jz9P5LCwEynicB_Uz2xuzb-t7mjB8QFgZ7iFRSrLY1JvdZGPxg-VBtKIlUmJ8l/spc/9kzgDRf_TypBnmSw7UKENXPOdBC1i4XLPwUjA9dlyvVOPZ4cZRBqkNZUd_IPWqc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI2R7HQfXHOutuwP6mMBlHmwyJU3EtKmyKowCU7GrlyHAiEAyE4kvmZ4kBn_2erFvLGDchSnJQg9d_ObRDVyYHV-T0g%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Khabar Madhya Pradesh
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
