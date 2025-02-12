@@ -195,7 +195,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", TRT World
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1739420077/ei/TR2tZ_7jIsn4sfIP3ODvaQ/ip/52.155.62.247/id/CoS3fhQz1hE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3yrUmNZhOhqdA7c6DQ88mIteBM43E8bvYjA86r0N4vppajGgeDFHxkVBMwjI0rXwISvb1a6y1Rd/spc/RjZbSeQr50vrOc_lIKoGJYy6StWdJRu_kCdkdh74g0_ZQ3tr_20ZZBT6qgE2bSo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51387516/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeFM4AL02bm9dbUtS9_mja1vOyhfr3h8NCfjDeZfkCkcCIQCp22K7PnSP95EzfrxiEtqT_3NU6SbuA9ZYc6xoSi5Wdw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Bloomberg Quicktake
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
