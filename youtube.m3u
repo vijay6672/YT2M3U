@@ -282,7 +282,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/india_today_in_tv.png" tvg-id="", India Today
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1739794957/ei/rdWyZ6fYIbfGsfIP8amP-AY/ip/52.234.33.212/id/tBTAPbvXDcA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393162/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wmKoZ52dby0iVqZZYOed8H9M71V9oDbU_r6e8YEtL-JPqfWk3VbVAaHuAvUdlzzM1qLaHPtzay/spc/RjZbSbWGz52qdCTjOlKkj5Ou_mZzWvEuSJfhDGXWdqbvDZrVql1Wfo7acV0sXdk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKDr-7KRSTsqPpjZkDelm4a1usb8tVCCl8FtH_i-uMhHAiEAyOg2AfHqI7-jlNxsMAtua5szwSaz03VdOH7VNvQYKCk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png" tvg-id="", Republic TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
