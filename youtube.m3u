@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/news-j-in.png" tvg-id="", News J
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741078324/ei/1GrGZ6uKJrGLkucP_5yIoAQ/ip/68.154.30.169/id/2dBYzmkZNi8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wugm9HZytx-5b4G6eUclmd3MCzgzC9CDsqsfyzjukVvdGioQbcROf2cfXe4LRddUyPm-6twSa0/spc/RjZbSdLIejWXjVhlpI7PzduunZ68qWLqU9XQSL7KQX9YjT3h5NUAhULSUdWaenc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAICyRQvNrHKje8AxLg6et8CbJg0QLHN1YD-OWqYQt1BEAiAKvT65dimFC_ssRi_D1idsdGdBiPc6te_2FcYRcTS8mw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News US
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741072379/ei/m1PGZ8zeBrufvPEP94yByQY/ip/172.183.215.200/id/arLGa6Gf_xs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393154/txs/51393154%2C51393155%2C51393156%2C51393157%2C51393158/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AUWDL3yPbHYAYcmaA8gUtGfQWbo_tgPKzZgnmhtBGEq1jygfqsGCwpWquyf863O8ivT_ZOqL3hUXH_ou/spc/RjZbSWnVX_3W8ko9j1B2g5CNO_RPR0LEJ-HEjDv9LTP6FY3NJE4NehwV8CpmIII/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBTIytOYcqZMuaDjkISUBbMuVz2aCzLdq0xIvRw0BWtwCIGewVqBOXLP1R50_0lMXk1o6vl0G9V68BCtZKOCvhsxJ/file/index.m3u8
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News US
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
