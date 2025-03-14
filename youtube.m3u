@@ -255,7 +255,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", English TV
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742005072/ei/8I7UZ8SJE9C1kucPkrfz2AM/ip/20.57.79.87/id/zEouwOxy8MI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3xjFIIBJ1jCZ6NVrDfmGJ011VOWdgRsGUPkNsXJhrTqGKLbONDE2hDsu5ipyxMd9SMGdAJw2ho-/spc/RjZbSYSN98xb_sp5KB35GoY8SJlfrOHAMg4aUIH-rHAg0Z7IkQCkmKKtF2l8XK0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMM3Zd0rarpt0Y3sxzFG6HLuzm7M1nPINubst94LQweOAiEAkrtaiXLp8yOiWbPy4h_ddFC_NHrEGAbeE-KnXTWSdvQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Cric Heroes Livestream 1 TV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
