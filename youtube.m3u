@@ -1107,7 +1107,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PAW Patrol Official & Friends
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742955752/ei/iBDjZ_m4IZjCkucP-r3N0QY/ip/20.246.71.81/id/Ui_6vrFvqRI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNIvIC3g3j3G3iequZdJKntr4p5PkgvTWRwe1hCnYvglcypgmMzN077-XiWzhA4W2s_apjWPcaC/spc/_S3wKsAHJOawM5EGytkeXZ4LyiC51yyXr9knqVKL9V_4Rk5v7SXtqAxqpVC4AzI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRLVChNO7SKI4Gx5gklKuRE2WOZ721DtSa-Qr1x0f7-gCIQCBaSyaY_GJJGsRmwpIoGvhdZNlyI3txbfrpucNbv6iWw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oddbods & FRIENDS
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
