@@ -369,7 +369,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Bharat24
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743049015/ei/13zkZ9HTA4mYsfIPve6i0A8/ip/20.169.1.149/id/PWl1RzrUVds.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51389581/txs/51389580%2C51389581/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNJnkM5ekf7fyJcsFJF6jFw8UYz4vDRZej5b1_qZXEwy_JMNUz_X7HfT9T7vJLMdqXtMg0JrSVu/spc/_S3wKp0E9fGWSUjoonm7yKZlCeWQ7YSADn98t_jDC1QzJVN6PlGJYnTh04rNWKI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435732/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJfoucC4-hq2noAiva4KYMgZETaV0PCcQETI-95806aLAiEA1_qYtJ6AUfsrnNd7fe6MtYMGAGJ5LKyjaTvs0ZuF6k8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", Sadhguru
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
