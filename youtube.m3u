@@ -603,7 +603,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 India
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743070917/ei/ZdLkZ5T8KLmazN0Poq-gsAI/ip/172.183.54.64/id/QvW1JPqLRJs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMklJxths94bXmGFkX7PV39sh3GvKDbMnUFc3291tR3JUwBvAYOJ5KCc97V41PuRkdApAevFgbL/spc/_S3wKkIiKrfdfqIptaHa9FxVyVsH4WOd4ZNVAR8Wqfym7wMUaEpsabSLbgYbUWM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435732/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgILHFqYR9xdkU5zxViah6PcxfjxpCGbzBO8r9_GCYcLMCIAzNBJ_LgsWv-OYbVT8cv4Zbbxom0t0CLDp9ZZJHbGBP/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", News18 Punjab/Haryana/Himachal
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
