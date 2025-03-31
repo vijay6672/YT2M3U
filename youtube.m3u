@@ -1101,7 +1101,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Power Rangers Kids
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743452509/ei/_KTqZ9awO7-YsfIPqKurGQ/ip/52.234.33.68/id/w7Z2J6VuzBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNmklrhnfp5W2z0PmFzWbwh_ieTY2rzHnnVoJaDL1UlBB18SYmRvvAPJiTNvQoiCnct9Cuhypuj/spc/_S3wKouu_z0-BtAMD0Cydm4DVkdLW2BrxTEF2EyMyvonJtUt39G306oe3qocg98/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOV2AYnoCW5zKI6fEp-LqQjxGbE3xO-CXoUB33JYf8FVAiEAyWmSsONheIQ_lN3x3jghQsLToU8JiPYxVul4afHMlhA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", PBS KIDS
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
