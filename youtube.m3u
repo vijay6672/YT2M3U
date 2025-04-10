@@ -981,7 +981,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" tvg-id="", 10TV Telugu
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744275798/ei/9jT3Z-26M-S-lu8P17mn2Ac/ip/20.25.193.47/id/3xYbjRbfo6Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AccgBcO6oFlod1Wy-iXGQKMDR26zd-4vBKU42chJ5h2ORNAPcLo6L2TSDlBR6mDBK-cO-SOIuL-iCRB2/spc/_S3wKr4fMO7fB4Zj_ZtezdxcESYeCpcOQX1IeI0lYjp4oNKiFtDiR7gPgtOEpZQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51398365%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOb47LPZBCkk4qQoz4XQvr8l0GE4mJ3CoF9BE1hPtL7ECIHT7Va_K9e3wa3MvhwU8A7na1CNzNkGLc5pGDKGXTgLl/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" tvg-id="", HMTV
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
