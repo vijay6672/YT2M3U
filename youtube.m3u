@@ -1119,7 +1119,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Kids TV
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744960787/ei/s6gBaNrpKNSJkucPuJ38kAI/ip/20.42.49.82/id/2QlyajCEU8E.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379625/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcPum7btmv8x1D0UxNnF8H1sEkoWCVkP5kdzuT2T7tfi8YqpzO2ghhmwZSwC4hEfHkPKigF5kbCJ/spc/_S3wKm2iMb7whuHrOU2C011VARBB8wpO7IfvjMHAk4Gz1o9sEkZnZ0KvvsuW2is/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIgpKPyGHqeKDYFdfkgp0yUHvMB_PK394JpZW62dvYJoAiBUrAPOdxERMpVyzssCD_AoCjurIXDnHHWUjYWryEEuTw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Dave And Ava
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
