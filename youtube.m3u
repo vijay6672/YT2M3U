@@ -519,7 +519,7 @@ https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD KISAN
-https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745374895/ei/T_oHaLqbLPHeybgPqKaqqQQ/ip/23.98.188.170/id/qN518HoFGMg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442275/txs/51442271%2C51442272%2C51442273%2C51442274%2C51442275/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMq5iupHghpzmIeK_oZ7r6wah76pvPGuLq6pIBD7Z5EYSPqVOHP8zdsJ5ar81JWfYXsMQFuX9vl/spc/_S3wKjgzaNQ_Iz50-JZZrAkNXBqR4XVtLBDSTwaJfRScDWyaC835Q-bNRis8lmI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOWwObgsFpvonlVoRVkXLKDe2dWTc3EFmETvs7DbaXldAiEAlYLUjtwN3Ej5V8ZgiPTlELbn1rzHrYktoT3q8YXA-HA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="" tvg-id="", DD NATIONAL
 https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
